@@ -30,6 +30,9 @@ O tema de sustentabilidade foi escolhido por sua relevância social e educativa.
   <tr>
     <td align="center"><a href="https://github.com/gbevi"><img style="border-radius: 60%;" src="https://github.com/gbevi.png" width="200px;" alt=""/><br /><sub><b>Gabriel Dantas Bevilaqua Mendes</b></sub></a><br />
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Jose1277"><img style="border-radius: 60%;" src="https://github.com/Jose1277.png" width="200px;" alt=""/><br /><sub><b>José Oliveira</b></sub></a><br />
+  </tr>
 </table>
 
 ## Histórico de versão
@@ -37,3 +40,4 @@ O tema de sustentabilidade foi escolhido por sua relevância social e educativa.
 | Versão |    Data    |          Descrição           |                      Autor                       | Revisor |
 | :----: | :--------: | :--------------------------: | :----------------------------------------------: | :-----: |
 |  1.0   | 23/03/2026 | Início da documentação       | [Gabriel Mendes](https://github.com/gbevi)       |         |
+|  1.1   | 24/03/2026 | Adição de contribuidores     | [José Oliveira](https://github.com/Jose1277)     |         |
