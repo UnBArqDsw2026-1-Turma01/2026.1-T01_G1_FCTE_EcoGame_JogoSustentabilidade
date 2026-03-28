@@ -1,13 +1,13 @@
 <!--Written by l0c. v1.0-->
 
-# [nome_area] <!-- Apenas o título deve usar o H1 nesse estilo. Os demais são subtópicos sempre!-->
+# Administração <!-- Apenas o título deve usar o H1 nesse estilo. Os demais são subtópicos sempre!-->
 
 <!-- A introdução explica o propósito do documento. Nome alternativo "Sobre" sendo utilizado no momento-->
 ## Sobre
 
-Visando manter transparência do processo de desenvolvimento desse projeto, a seção [nome_area] 
+Visando manter transparência do processo de desenvolvimento desse projeto, a seção Administração 
 foi criada.
-A área [adjunto] da documentação contém atas de reuniões juntamente com as gravações dessas.
+A área administrativa da documentação contém atas de reuniões juntamente com as gravações dessas.
 <!-- Descomentar caso decidamos se é necessário criar um padrão muito específico de organização-->
 <!--Esse documento visa explicar a estrutura da administração e como utilizá-la efetivamente.--> 
 
@@ -16,8 +16,7 @@ A área [adjunto] da documentação contém atas de reuniões juntamente com as 
 <!-- Caso a estrutura da área administrativa cresça, será necessário explicar sua estrutura-->
 ## Estrutura e Padronização
 
-Essa seção contém informações sobre como os artefatos presentes na área de [adjunto] são
-organizados e nomeados.
+Essa seção contém informações sobre como os artefatos presentes na área de administrativa são organizados e nomeados.
 
 ### Reuniões
 
@@ -32,9 +31,3 @@ de realização de cada reunião automaticamente.
     O padrão mais simples que conheço seria apenas versionar com base no número e utilizar o blame e pr's 
     para verificar quem revisou o que. Ademais,em um documento pequeno como esse, ele polui bastate a leitura.
 -->
-
-<!--Caso a área mude de nome, mude as variáveis de ambiente abaixo: -->
-<!---->
-[nome_area] : Administração
-[nome_area_adjunto] : Administrativa
-
