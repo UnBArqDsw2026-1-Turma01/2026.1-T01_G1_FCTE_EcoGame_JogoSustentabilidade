@@ -1,5 +1,6 @@
+<!--Written by l0c, v1.0-->
 <!--this is a model! copy this into the actual files and stuff-->
-<!--Remember -> mkdocs may break in unexpected ways. Always check your links-->
+<!--Remember -> mkdocs may break in unexpected ways. Always check your links!-->
 
 # ATA - Reunião nX - dia/mês/ano
 
@@ -36,9 +37,12 @@ Reunião realizada no **Microft Teams.**
 
 <!--Remember to align your bloody ass separators in the table! the payoff is HUGE and allows for multicursor edits!!!!-->
 <!--Also allows insert edits, which are always great-->
-
+<!--Como explicado no documento de abertura da administração, o histórico de versão pode ser retirado em prol do uso de ferramentas
+do github!!! Por isso, nesse modelo está comentado.-->
+<!--
 ## Histórico de versão
 
 | Versão |    Data    |          Descrição          |         Autor                               |       Revisor                                      |
 | :----: | :--------: | :-------------------------: | :-----------------------------------------: | :------------------------------------------------: |
 |  1.0   | 12/04/2025 | Criação do documento        | [Ryan Salles](https://github.com/RA-Salles) | [João Pedro Costa](https://github.com/johnaopedro) |
+-->

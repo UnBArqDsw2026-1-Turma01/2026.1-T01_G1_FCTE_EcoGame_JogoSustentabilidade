@@ -50,6 +50,10 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Administracao: 
+    - Introdução: administracao/administracao.md
+    - Reunioes:
+      - 
   - Dinâmica I:
     - Design Sprint:
       - Visão Geral: dinamica-1/design-sprint/visao-geral.md
