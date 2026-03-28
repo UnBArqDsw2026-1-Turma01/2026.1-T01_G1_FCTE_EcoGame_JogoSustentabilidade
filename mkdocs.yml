@@ -53,7 +53,10 @@ nav:
   - Administracao: 
     - Introdução: administracao/administracao.md
     - Reunioes:
-      - 
+      - 23/03/2026: administracao/reunioes/20260323.md
+      - 24/03/2026: administracao/reunioes/20260324.md
+      - 26/03/2026: administracao/reunioes/20260326.md
+      - 27/03/2026: administracao/reunioes/20260327.md
   - Dinâmica I:
     - Design Sprint:
       - Visão Geral: dinamica-1/design-sprint/visao-geral.md
