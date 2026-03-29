@@ -112,4 +112,4 @@ Ferramenta utilizada: draw.io | Autor: Jose Oliveira | Data: 24/03/2025
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | :-------: | :-------: | :---------: |
 | `1.0`  | 24/03/2026 | Adição do rich picture 1 | [Jose Oliveira](https://github.com/jose1277) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| `1.1`  | 24/03/2026 | Adiciona os tópicos Introdução e Metodologia | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  |
+| `1.1`  | 28/03/2026 | Adiciona os tópicos Introdução e Metodologia | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  |
