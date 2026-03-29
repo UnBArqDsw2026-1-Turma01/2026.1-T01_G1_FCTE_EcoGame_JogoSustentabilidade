@@ -97,6 +97,26 @@ Ao final, a equipe define o alvo do sprint:
 
 ![Rich Picture - Matheus](../../assets/images/rich_picture_matheus.jpeg)
 
+### Rich Picture - Carlos
+
+![Rich Picture - Carlos](../../assets/images/rich-picture-carlos.jpg)
+
+### Rich Picture - Guilherme
+
+![Rich Picture - Guilherme](../../assets/images/rich-picture-guilherme.jpg)
+
+### Rich Picture - Heyttor
+
+![Rich Picture - Heyttor](../../assets/images/rich-picture-heyttor.jpg)
+
+### Rich Picture - João
+
+![Rich Picture - João](../../assets/images/rich-picture-joao.jpg)
+
+### Rich Picture - Rennan
+
+![Rich Picture - Rennan](../../assets/images/rich-picture-rennan.jpg)
+
 ## Referências
 
 > KNAPP, Jake; ZERATSKY, John; KOWITZ, Braden. **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days**. Simon & Schuster, 2016.
