@@ -20,7 +20,7 @@
   
   <center>
   
-  ![Exemplo de Rich Picture](../../assets/images/rich_picture_exemplo.png)
+  ![Exemplo de Rich Picture](/grupo-1/assets/images/rich_picture_exemplo.png)
   
   </center>
   
@@ -46,7 +46,7 @@
   
   <center>
   
-  ![Rich Picture do Projeto](../../assets/images/)
+  ![Rich Picture do Projeto](/grupo-1/assets/images/)
   
   </center>
   
@@ -66,7 +66,7 @@
   
   <center>
   
-  ![Rich Picture do Matheus](../../assets/images/rich_picture_matheus.jpeg)
+  ![Rich Picture do Matheus](/grupo-1/assets/images/rich_picture_matheus.jpeg)
   
   </center>
   
@@ -82,7 +82,7 @@
   
   <center>
   
-  ![Rich Picture do _](../../assets/images/)
+  ![Rich Picture do _](/grupo-1/assets/images/)
   
   </center>
   
