@@ -57,43 +57,52 @@ nav:
       - 24/03/2026: administracao/reunioes/20260324.md
       - 26/03/2026: administracao/reunioes/20260326.md
       - 27/03/2026: administracao/reunioes/20260327.md
-  - Dinâmica I:
-    - Design Sprint:
-      - Visão Geral: dinamica-1/design-sprint/visao-geral.md
-      - Entender: dinamica-1/design-sprint/entender.md
-      - Esboçar: dinamica-1/design-sprint/esbocar.md
-      - Decidir: dinamica-1/design-sprint/decidir.md
-      - Prototipar: dinamica-1/design-sprint/prototipar.md
-    - Pré-Rastreabilidade:
-      - Visão Geral: dinamica-1/pre-rastreabilidade/visao-geral.md
-      - Rich Pictures: dinamica-1/pre-rastreabilidade/rich-pictures.md
-      - 5W2H: dinamica-1/pre-rastreabilidade/5w2h.md
-      - Argumentações: dinamica-1/pre-rastreabilidade/argumentacoes.md
-    - Elicitação:
-      - Visão Geral: dinamica-1/elicitacao/visao-geral.md
-      - Brainstorming: dinamica-1/elicitacao/brainstorming.md
-      - Análise de Protocolo: dinamica-1/elicitacao/analise-protocolo.md
-      - Análise de Discurso: dinamica-1/elicitacao/analise-discurso.md
-      - Entrevistas: dinamica-1/elicitacao/entrevistas.md
-      - Questionário: dinamica-1/elicitacao/questionario.md
-      - Storytelling: dinamica-1/elicitacao/storytelling.md
-      - Léxicos: dinamica-1/elicitacao/lexicos.md
-    - Priorização:
-      - Visão Geral: dinamica-1/priorizacao/visao-geral.md
-      - MoSCoW: dinamica-1/priorizacao/moscow.md
-      - First Things First: dinamica-1/priorizacao/first-things-first.md
-  - Dinâmica II:
-    - Metodologia e Definições: dinamica-2/metodologia-definicoes.md
-    - Modelagem do Processo: dinamica-2/modelagem-processo.md
-    - Gerenciamento de Riscos: dinamica-2/gerenciamento-riscos.md
-    - Monitoramento e Controle de Riscos: dinamica-2/monitoramento-riscos.md
-    - Documento de Visão: dinamica-2/documento-visao.md
-  - Dinâmica III:
-    - NFR Framework: dinamica-3/nfr-framework.md
-    - iStar: dinamica-3/istar.md
-  - Dinâmica IV:
-    - Documento de Arquitetura: dinamica-4/documento-arquitetura.md
-    - Padrões de Projeto: dinamica-4/padroes-projeto.md
+  - Desenho de Software:
+    - Base:
+      - Design Sprint:
+        - Visão Geral: desenho-de-software/base/design-sprint/visao-geral.md
+        - Segunda-Feira: desenho-de-software/base/design-sprint/segunda-feira.md
+        - Terça-Feira: desenho-de-software/base/design-sprint/terca-feira.md
+        - Quarta-Feira: desenho-de-software/base/design-sprint/quarta-feira.md
+        - Quinta-Feira: desenho-de-software/base/design-sprint/quinta-feira.md
+        - Sexta-Feira: desenho-de-software/base/design-sprint/sexta-feira.md
+        - Tabela de Contribuição: desenho-de-software/base/design-sprint/tabela-de-contribuicao.md
+      - Artefatos Generalistas:
+        - Visão Geral: desenho-de-software/base/artefatos-generalistas/visao-geral.md
+        - Rich Pictures: desenho-de-software/base/artefatos-generalistas/rich-pictures.md
+        #- 5W2H: desenho-de-software/base/artefatos-generalistas/5w2h.md
+        #- Argumentações: desenho-de-software/base/artefatos-generalistas/argumentacoes.md
+        - Tabela de Contribuição: desenho-de-software/base/artefatos-generalistas/tabela-de-contribuicao.md
+      - Modelagem BPMN:
+        - Modelagem BPMN: desenho-de-software/base/modelagem-bpmn/modelagem-bpmn.md
+        - Tabela de Contribuição: desenho-de-software/base/modelagem-bpmn/tabela-de-contribuicao.md
+      - Iniciativas Extras:
+        - Elicitação:
+          - Visão Geral: desenho-de-software/base/iniciativas-extras/elicitacao/visao-geral.md
+          - Brainstorming: desenho-de-software/base/iniciativas-extras/elicitacao/brainstorming.md
+          #- Análise de Protocolo: desenho-de-software/base/iniciativas-extras/elicitacao/analise-protocolo.md
+          #- Análise de Discurso: desenho-de-software/base/iniciativas-extras/elicitacao/analise-discurso.md
+          - Entrevistas: desenho-de-software/base/iniciativas-extras/elicitacao/entrevistas.md
+          - Questionário: desenho-de-software/base/iniciativas-extras/elicitacao/questionario.md
+          - Storytelling: desenho-de-software/base/iniciativas-extras/elicitacao/storytelling.md
+          - Léxicos: desenho-de-software/base/iniciativas-extras/elicitacao/lexicos.md
+        - Priorização:
+          - Visão Geral: desenho-de-software/base/iniciativas-extras/priorizacao/visao-geral.md
+          - MoSCoW: desenho-de-software/base/iniciativas-extras/priorizacao/moscow.md
+          - First Things First: desenho-de-software/base/iniciativas-extras/priorizacao/first-things-first.md
+        - Tabela de Contribuição: desenho-de-software/base/iniciativas-extras/tabela-de-contribuicao.md
+#    - Modelagem:
+#      - Metodologia e Definições: dinamica-2/metodologia-definicoes.md
+#      - Modelagem do Processo: dinamica-2/modelagem-processo.md
+#      - Gerenciamento de Riscos: dinamica-2/gerenciamento-riscos.md
+#      - Monitoramento e Controle de Riscos: dinamica-2/monitoramento-riscos.md
+#      - Documento de Visão: dinamica-2/documento-visao.md
+#    - Padrões de Projeto:
+#      - NFR Framework: dinamica-3/nfr-framework.md
+#      - iStar: dinamica-3/istar.md
+#  - Arquitetura de Software e Reutilização:
+#    - Documento de Arquitetura: dinamica-4/documento-arquitetura.md
+#    - Padrões de Projeto: dinamica-4/padroes-projeto.md
   - Extras:
     - Plano de Comunicação: extras/plano-comunicacao.md
     - Guia de Contribuição: extras/guia-contribuicao.md
