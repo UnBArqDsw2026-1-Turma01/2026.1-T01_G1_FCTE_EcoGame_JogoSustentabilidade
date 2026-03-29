@@ -16,16 +16,8 @@
 
   <div align="center">
     <p><strong>Figura 1 – Exemplo de <em>Rich Picture</em></strong></p>
-  </div>
-  
-  <center>
-  
-  ![Exemplo de Rich Picture](../../assets/images/rich_picture_exemplo.png)
-  
-  </center>
-  
-  <div align="center">
-      <p>Fonte: <a href="#ref-1">MONK; HOWARD, 1998</a>.</p>
+    <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/rich_picture_exemplo.png?raw=true">
+    <p>Fonte: <a href="#ref-1">MONK; HOWARD, 1998</a>.</p>
   </div>
 
 
@@ -42,16 +34,8 @@
 
   <div align="center">
     <p><strong>Figura 2 – <em>Rich Picture</em> do Projeto</strong></p>
-  </div>
-  
-  <center>
-  
-  ![Rich Picture do Projeto](../../assets/images/)
-  
-  </center>
-  
-  <div align="center">
-      <p>Autor(es): <a href=""></a>.</p>
+    <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/?raw=true">
+    <p>Autor(es): <a href=""></a>.</p>
   </div>
 
 
@@ -62,32 +46,16 @@
 
   <div align="center">
     <p><strong>Figura 3 – <em>Rich Picture</em> do Matheus</strong></p>
-  </div>
-  
-  <center>
-  
-  ![Rich Picture do Matheus](../../assets/images/rich_picture_matheus.jpeg)
-  
-  </center>
-  
-  <div align="center">
-      <p>Autor(es): <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
+    <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/rich_picture_matheus.jpeg?raw=true">
+    <p>Autor(es): <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
   </div>
 
   ---
 
   <div align="center">
     <p><strong>Figura X – <em>Rich Picture</em> do _</strong></p>
-  </div>
-  
-  <center>
-  
-  ![Rich Picture do _](../../assets/images/)
-  
-  </center>
-  
-  <div align="center">
-      <p>Autor(es): <a href=""></a>.</p>
+    <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/?raw=true">
+    <p>Autor(es): <a href=""></a>.</p>
   </div>
 
 
