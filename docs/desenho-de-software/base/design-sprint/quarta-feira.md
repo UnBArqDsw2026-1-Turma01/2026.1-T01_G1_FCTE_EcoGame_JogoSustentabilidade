@@ -80,4 +80,4 @@ Com base nos votos, a <i>rich picture</i> do Heyttor foi definida como a que mel
 | Versão |    Data    |           Descrição            |                         Autor                          | Revisor |
 | :----: | :--------: | :----------------------------: | :----------------------------------------------------: | :-----: |
 |  1.0   | 29/03/2026 |       Criação da página        |       [Gabriel Mendes](https://github.com/gbevi)       |         |
-|  2.0   | 30/03/2026 | Documentação do dia de decisão | [Guilherme Zanella](https://github.com/guilhermezan42) |         |
+|  2.0   | 30/03/2026 | Documentação do dia de decisão | [Guilherme Zanella](https://github.com/guilhermezan42) |  [Jose Oliveira](https://github.com/Jose1277) |
