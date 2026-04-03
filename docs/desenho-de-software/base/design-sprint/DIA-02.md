@@ -90,6 +90,11 @@ Atividade principal do dia, dividida em quatro etapas:
 
 ![Rich Picture - Rennan](../../../assets/images/rich-picture-rennan.jpg)
 
+### Rich Picture - Rennan
+
+![Rich Picture - Yasmin](../../../assets/images/rich-picture-yasmin.jpg)
+
+
 ## Referências
 
 > KNAPP, Jake; ZERATSKY, John; KOWITZ, Braden. **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days**. Simon & Schuster, 2016.
@@ -101,3 +106,4 @@ Atividade principal do dia, dividida em quatro etapas:
 | Versão |    Data    |          Descrição           |                      Autor                       | Revisor |
 | :----: | :--------: | :--------------------------: | :----------------------------------------------: | :-----: |
 |  1.0   | 29/03/2026 | Criação da página            | [Gabriel Mendes](https://github.com/gbevi)       |         |
+|  1.1   | 03/04/2026 | Adicionando meu rich picture             | [Yasmin Abdon](https://github.com/yaabdon)       |         |
