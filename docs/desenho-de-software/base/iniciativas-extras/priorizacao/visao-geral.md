@@ -1,3 +1,0 @@
-# Priorização
-
-Página em construção.
