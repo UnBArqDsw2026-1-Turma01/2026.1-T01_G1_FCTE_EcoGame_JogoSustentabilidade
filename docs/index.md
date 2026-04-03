@@ -1,15 +1,15 @@
-# G1 - JogoSustentabilidade
+# G1 - JogoSustentabilidade (EcoGame)
 
 ## Sobre a disciplina
 
 <p align="justify">
-Este documento tem como objetivo armazenar as informações dos artefatos estudados pelo Grupo 1 na disciplina de Arquitetura e Desenho de Software da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB) durante o 1º semestre de 2025, ministrada pela professora Milene Serrano.
+Este documento tem como objetivo armazenar as informações dos artefatos estudados pelo Grupo 1 na disciplina de Arquitetura e Desenho de Software da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB) durante o 1º semestre de 2026, ministrada pela professora Milene Serrano.
 </p>
 
-## O que é o G1_JogoSustentabilidade?
+## O que é o EcoGame?
 
 <p align="justify">
-O G1_JogoSustentabilidade é um projeto de jogo digital com temática de sustentabilidade, baseado em jogos conhecidos do mercado como inspiração, mas com uma proposta totalmente nova e original. O objetivo é conscientizar os jogadores sobre práticas sustentáveis de forma interativa e envolvente, podendo ser desenvolvido como site, desktop ou aplicativo móvel.
+O EcoGame é um projeto de jogo digital com temática de sustentabilidade. Embora utilize jogos conhecidos do mercado como inspiração, ele apresenta uma proposta nova que combina elementos de diferentes títulos para desenvolver algo único para o nicho em que se insere. O principal objetivo é conscientizar os jogadores sobre práticas sustentáveis de forma interativa e envolvente, sendo concebido exclusivamente para a plataforma Desktop.
 </p>
 
 - Mecânicas de jogo voltadas à educação ambiental;
@@ -18,10 +18,10 @@ O G1_JogoSustentabilidade é um projeto de jogo digital com temática de sustent
 - Conteúdo educativo integrado à jogabilidade;
 - Interface acessível e intuitiva para diferentes públicos.
 
-## Por que o G1_JogoSustentabilidade?
+## Por que o EcoGame?
 
 <p align="justify">
-O tema de sustentabilidade foi escolhido por sua relevância social e educativa. A proposta se baseia em jogos existentes apenas como referência para identificar público-alvo, principais funcionalidades e mecânicas de engajamento. O projeto não utiliza o nome de nenhum jogo real, sendo uma proposta completamente nova pensada pelo grupo, com o nome G1_JogoSustentabilidade.
+O tema de sustentabilidade apresenta relevância social e necessidade educativa. Diferente de outros jogos, que nem sempre refletem a realidade de um estilo de vida sustentável, o EcoGame se propõe a focar, de forma simples e direta, em mecanismos que constroem consciência ambiental. O objetivo é que o aprendizado e as mecânicas aplicadas transcendam o ambiente virtual, estendendo-se para as práticas cotidianas dos usuários.
 </p>
 
 ## Contribuidores
@@ -33,6 +33,9 @@ O tema de sustentabilidade foi escolhido por sua relevância social e educativa.
   <tr>
     <td align="center"><a href="https://github.com/Jose1277"><img style="border-radius: 60%;" src="https://github.com/Jose1277.png" width="200px;" alt=""/><br /><sub><b>José Oliveira</b></sub></a><br />
   </tr>
+   <tr>
+    <td align="center"><a href="https://github.com/yaabdon"><img style="border-radius: 60%;" src="https://github.com/yaabdon.png" width="200px;" alt=""/><br /><sub><b>Yasmin Sousa Abdon</b></sub></a><br />
+  </tr>
 </table>
 
 ## Histórico de versão
@@ -41,3 +44,4 @@ O tema de sustentabilidade foi escolhido por sua relevância social e educativa.
 | :----: | :--------: | :--------------------------: | :----------------------------------------------: | :-----: |
 |  1.0   | 23/03/2026 | Início da documentação       | [Gabriel Mendes](https://github.com/gbevi)       |         |
 |  1.1   | 24/03/2026 | Adição de contribuidores     | [José Oliveira](https://github.com/Jose1277)     |         |
+|  1.2   | 02/04/2026 | Refinamento de nome e escopo     | [Yasmin Abdon](https://github.com/yaabdon)     |         |
