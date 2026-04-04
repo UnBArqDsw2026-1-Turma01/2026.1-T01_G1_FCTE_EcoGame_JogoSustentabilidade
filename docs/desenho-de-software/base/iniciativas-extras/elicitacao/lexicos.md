@@ -1,3 +1,0 @@
-# Léxicos
-
-Página em construção.

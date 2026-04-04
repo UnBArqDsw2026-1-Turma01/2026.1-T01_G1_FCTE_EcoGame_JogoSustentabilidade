@@ -1,6 +1,6 @@
 # G1 - JogoSustentabilidade
 
-Documentação do projeto G1_JogoSustentabilidade da disciplina de Arquitetura e Desenho de Software - FCTE/UnB, 2025.1.
+Documentação do projeto G1_JogoSustentabilidade da disciplina de Arquitetura e Desenho de Software - FCTE/UnB, 2026.1.
 
 ## Pré-requisitos
 

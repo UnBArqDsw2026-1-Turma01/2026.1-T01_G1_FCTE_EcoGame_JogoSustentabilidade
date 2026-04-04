@@ -1,117 +1,118 @@
-site_name: G1 - JogoSustentabilidade
-site_description: Projeto G1_JogoSustentabilidade - Desenho de Software
-site_url: ""
+  site_name: G1 - JogoSustentabilidade
+  site_description: Projeto G1_JogoSustentabilidade - Desenho de Software
+  site_url: ""
 
-theme:
-  name: material
-  language: pt
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
-    - navigation.footer
-    - toc.follow
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
+  theme:
+    name: material
+    language: pt
+    features:
+      - navigation.instant
+      - navigation.tracking
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.top
+      - navigation.footer
+      - toc.follow
+      - search.suggest
+      - search.highlight
+      - content.tabs.link
+      - content.code.annotation
+      - content.code.copy
 
-  palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch
-        name: Dark mode
-      primary: green
-      accent: light green
-    - scheme: slate
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Light mode
-      primary: green
-      accent: light green
+    palette:
+      - scheme: default
+        toggle:
+          icon: material/toggle-switch
+          name: Dark mode
+        primary: green
+        accent: light green
+      - scheme: slate
+        toggle:
+          icon: material/toggle-switch-off-outline
+          name: Light mode
+        primary: green
+        accent: light green
 
-markdown_extensions:
-  - attr_list
-  - tables
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - md_in_html
-  - toc:
-      permalink: true
+  markdown_extensions:
+    - attr_list
+    - tables
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+        alternate_style: true
+    - md_in_html
+    - toc:
+        permalink: true
 
-extra_css:
-  - custom.css
+  extra_css:
+    - custom.css
 
-nav:
-  - Home: index.md
-  - Administracao: 
-    - Introdução: administracao/administracao.md
-    - Reunioes:
-      - 23/03/2026: administracao/reunioes/20260323.md
-      - 24/03/2026: administracao/reunioes/20260324.md
-      - 26/03/2026: administracao/reunioes/20260326.md
-      - 27/03/2026: administracao/reunioes/20260327.md
-  - Desenho de Software:
-    - Base:
-      - Design Sprint:
-        - Visão Geral: desenho-de-software/base/design-sprint/visao-geral.md
-        - Segunda-Feira: desenho-de-software/base/design-sprint/segunda-feira.md
-        - Terça-Feira: desenho-de-software/base/design-sprint/terca-feira.md
-        - Quarta-Feira: desenho-de-software/base/design-sprint/quarta-feira.md
-        - Quinta-Feira: desenho-de-software/base/design-sprint/quinta-feira.md
-        - Sexta-Feira: desenho-de-software/base/design-sprint/sexta-feira.md
-        - Tabela de Contribuição: desenho-de-software/base/design-sprint/tabela-de-contribuicao.md
-      - Artefatos Generalistas:
-        - Visão Geral: desenho-de-software/base/artefatos-generalistas/visao-geral.md
-        - Requisitos elicitados: desenho-de-software/base/artefatos-generalistas/Requisitos-elicitados.md
-        - Rich Pictures: desenho-de-software/base/artefatos-generalistas/rich-pictures.md
-        #- 5W2H: desenho-de-software/base/artefatos-generalistas/5w2h.md
-        #- Argumentações: desenho-de-software/base/artefatos-generalistas/argumentacoes.md
-        - Tabela de Contribuição: desenho-de-software/base/artefatos-generalistas/tabela-de-contribuicao.md
-      - Modelagem BPMN:
-        - Modelagem BPMN: desenho-de-software/base/modelagem-bpmn/modelagem-bpmn.md
-        - Tabela de Contribuição: desenho-de-software/base/modelagem-bpmn/tabela-de-contribuicao.md
-      - Iniciativas Extras:
-        - Elicitação:
-          - Visão Geral: desenho-de-software/base/iniciativas-extras/elicitacao/visao-geral.md
-          - Brainstorming: desenho-de-software/base/iniciativas-extras/elicitacao/brainstorming.md
-          #- Análise de Protocolo: desenho-de-software/base/iniciativas-extras/elicitacao/analise-protocolo.md
-          #- Análise de Discurso: desenho-de-software/base/iniciativas-extras/elicitacao/analise-discurso.md
-          - Entrevistas: desenho-de-software/base/iniciativas-extras/elicitacao/entrevistas.md
-          - Questionário: desenho-de-software/base/iniciativas-extras/elicitacao/questionario.md
-          - Storytelling: desenho-de-software/base/iniciativas-extras/elicitacao/storytelling.md
-          - Léxicos: desenho-de-software/base/iniciativas-extras/elicitacao/lexicos.md
-        - Priorização:
-          - Visão Geral: desenho-de-software/base/iniciativas-extras/priorizacao/visao-geral.md
-          - MoSCoW: desenho-de-software/base/iniciativas-extras/priorizacao/moscow.md
-          - First Things First: desenho-de-software/base/iniciativas-extras/priorizacao/first-things-first.md
-        - Tabela de Contribuição: desenho-de-software/base/iniciativas-extras/tabela-de-contribuicao.md
-#    - Modelagem:
-#      - Metodologia e Definições: dinamica-2/metodologia-definicoes.md
-#      - Modelagem do Processo: dinamica-2/modelagem-processo.md
-#      - Gerenciamento de Riscos: dinamica-2/gerenciamento-riscos.md
-#      - Monitoramento e Controle de Riscos: dinamica-2/monitoramento-riscos.md
-#      - Documento de Visão: dinamica-2/documento-visao.md
-#    - Padrões de Projeto:
-#      - NFR Framework: dinamica-3/nfr-framework.md
-#      - iStar: dinamica-3/istar.md
-#  - Arquitetura de Software e Reutilização:
-#    - Documento de Arquitetura: dinamica-4/documento-arquitetura.md
-#    - Padrões de Projeto: dinamica-4/padroes-projeto.md
-  - Extras:
-    - Plano de Comunicação: extras/plano-comunicacao.md
-    - Guia de Contribuição: extras/guia-contribuicao.md
-    - Reuniões: extras/reunioes.md
-    - Protótipo: extras/prototipo.md
-    - Referência Bibliográfica: extras/referencia-bibliografica.md
-    - Sprints do Projeto: extras/sprints-projeto.md
+  nav:
+    - Home: index.md
+    - Administracao: 
+      - Introdução: administracao/administracao.md
+      - Reunioes:
+        - 23/03/2026: administracao/reunioes/20260323.md
+        - 24/03/2026: administracao/reunioes/20260324.md
+        - 26/03/2026: administracao/reunioes/20260326.md
+        - 27/03/2026: administracao/reunioes/20260327.md
+    - Desenho de Software:
+      - base:
+        - design-sprint:
+          - DIA-01: desenho-de-software/base/design-sprint/DIA-01.md
+          - DIA-02: desenho-de-software/base/design-sprint/DIA-02.md
+          - DIA-03: desenho-de-software/base/design-sprint/DIA-03.md
+          - DIA-04: desenho-de-software/base/design-sprint/DIA-04.md
+          - DIA-05: desenho-de-software/base/design-sprint/DIA-05.md
+          - Tabela de Contribuição: desenho-de-software/base/design-sprint/tabela-de-contribuicao.md
+        - Artefatos Generalistas:
+          - Visão Geral: desenho-de-software/base/artefatos-generalistas/01-Visao-geral.md
+          - Mapa Mental: desenho-de-software/base/artefatos-generalistas/03-Mapa-mental.md
+          - Rich Pictures: desenho-de-software/base/artefatos-generalistas/04-Rich-pictures.md
+          - Prototipo: desenho-de-software/base/artefatos-generalistas/Protótipo.md
+          #- 5W2H: desenho-de-software/base/artefatos-generalistas/5w2h.md
+          #- Argumentações: desenho-de-software/base/artefatos-generalistas/argumentacoes.md
+          - Tabela de Contribuição: desenho-de-software/base/artefatos-generalistas/tabela-de-contribuicao.md
+        - Modelagem BPMN:
+          - Modelagem BPMN: desenho-de-software/base/modelagem-bpmn/modelagem-bpmn.md
+          - Tabela de Contribuição: desenho-de-software/base/modelagem-bpmn/tabela-de-contribuicao.md
+        - Iniciativas Extras:
+          - Elicitação:
+            - Visão Geral: desenho-de-software/base/iniciativas-extras/elicitacao/visao-geral.md
+            - Brainstorming: desenho-de-software/base/iniciativas-extras/elicitacao/brainstorming.md
+            #- Análise de Protocolo: desenho-de-software/base/iniciativas-extras/elicitacao/analise-protocolo.md
+            #- Análise de Discurso: desenho-de-software/base/iniciativas-extras/elicitacao/analise-discurso.md
+            - Entrevistas: desenho-de-software/base/iniciativas-extras/elicitacao/entrevistas.md
+            - Questionário: desenho-de-software/base/iniciativas-extras/elicitacao/questionario.md
+            - Storytelling: desenho-de-software/base/iniciativas-extras/elicitacao/storytelling.md
+            - Léxicos: desenho-de-software/base/iniciativas-extras/elicitacao/lexicos.md
+          - Priorização:
+            - Visão Geral: desenho-de-software/base/iniciativas-extras/priorizacao/visao-geral.md
+            - MoSCoW: desenho-de-software/base/iniciativas-extras/priorizacao/moscow.md
+            - First Things First: desenho-de-software/base/iniciativas-extras/priorizacao/first-things-first.md
+          - Tabela de Contribuição: desenho-de-software/base/iniciativas-extras/tabela-de-contribuicao.md
+  #    - Modelagem:
+  #      - Metodologia e Definições: dinamica-2/metodologia-definicoes.md
+  #      - Modelagem do Processo: dinamica-2/modelagem-processo.md
+  #      - Gerenciamento de Riscos: dinamica-2/gerenciamento-riscos.md
+  #      - Monitoramento e Controle de Riscos: dinamica-2/monitoramento-riscos.md
+  #      - Documento de Visão: dinamica-2/documento-visao.md
+  #    - Padrões de Projeto:
+  #      - NFR Framework: dinamica-3/nfr-framework.md
+  #      - iStar: dinamica-3/istar.md
+  #  - Arquitetura de Software e Reutilização:
+  #    - Documento de Arquitetura: dinamica-4/documento-arquitetura.md
+  #    - Padrões de Projeto: dinamica-4/padroes-projeto.md
+    - Extras:
+      - Plano de Comunicação: extras/plano-comunicacao.md
+      - Guia de Contribuição: extras/guia-contribuicao.md
+      - Reuniões: extras/reunioes.md
+      - Protótipo: extras/prototipo.md
+      - Referência Bibliográfica: extras/referencia-bibliografica.md
+      - Sprints do Projeto: extras/sprints-projeto.md
+      - Requisitos: extras/Especificação-Priorização.md
 
-plugins:
-  - search:
-      lang: pt
+  plugins:
+    - search:
+        lang: pt
