@@ -59,7 +59,6 @@
         - 27/03/2026: administracao/reunioes/20260327.md
     - Desenho de Software:
       - base:
-        - Requisitos: desenho-de-software/base/Especificação-Priorização.md
         - design-sprint:
           - DIA-01: desenho-de-software/base/design-sprint/DIA-01.md
           - DIA-02: desenho-de-software/base/design-sprint/DIA-02.md
@@ -71,6 +70,7 @@
           - Visão Geral: desenho-de-software/base/artefatos-generalistas/01-Visao-geral.md
           - Mapa Mental: desenho-de-software/base/artefatos-generalistas/03-Mapa-mental.md
           - Rich Pictures: desenho-de-software/base/artefatos-generalistas/04-Rich-pictures.md
+          - Prototipo: desenho-de-software/base/artefatos-generalistas/Protótipo.md
           #- 5W2H: desenho-de-software/base/artefatos-generalistas/5w2h.md
           #- Argumentações: desenho-de-software/base/artefatos-generalistas/argumentacoes.md
           - Tabela de Contribuição: desenho-de-software/base/artefatos-generalistas/tabela-de-contribuicao.md
@@ -111,6 +111,7 @@
       - Protótipo: extras/prototipo.md
       - Referência Bibliográfica: extras/referencia-bibliografica.md
       - Sprints do Projeto: extras/sprints-projeto.md
+      - Requisitos: extras/Especificação-Priorização.md
 
   plugins:
     - search:
