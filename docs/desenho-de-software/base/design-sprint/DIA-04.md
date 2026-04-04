@@ -25,6 +25,10 @@ Página em construção.
 ## Atividades Realizadas
 <!-- Listar as atividades realizadas listando com "###"-->
 
+## Protótipo 
+-  O protótipo foi realizado no estilo demo, um trailler que concatena todas as funcionalidades básicas que o grupo quer mostrar.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dB9ysgZQUSk?si=HmFc0qQDGcAvKqe3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Histórico de versão
 
