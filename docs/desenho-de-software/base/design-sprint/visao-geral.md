@@ -23,7 +23,9 @@ O Design Sprint foi conduzido em quatro etapas principais, cada uma com objetivo
 | Entender | Compreender o problema, definir objetivos e mapear desafios | 23/03 |
 | Esboçar | Gerar soluções individuais e coletivas | 26/03 |
 | Decidir | Selecionar as melhores ideias e definir o plano | 27/03 |
-| Prototipar | Construir um protótipo realista da solução escolhida | 04/04 |
+| Prototipar | Construir um protótipo realista da solução escolhida | 02/04 |
+| Validação | Testar o protótipo com usuários reais e coletar feedback | 04/04 | 
+
 
 ## Papéis
 
@@ -50,7 +52,7 @@ O Design Sprint foi conduzido em quatro etapas principais, cada uma com objetivo
 - [Dia 02 (24/03)](./DIA-02.md): O segundo dia foi dedicado à criação de soluções utilizando a metodologia Design Sprint. A equipe buscou inspirações externas para refinar ideias e, em seguida, cada membro elaborou esboços individuais em quatro etapas, focando no pensamento crítico para resolver o problema do projeto.
 - [Dia 03 (26/03)](./DIA-03.md): O terceiro dia foi focado na tomada de decisão e seleção da melhor proposta. A equipe avaliou os esboços anteriores para escolher a ideia com maior potencial de solução, utilizando a metodologia Design Sprint de forma colaborativa para definir o plano que guiará o protótipo.
 - [Dia 04 (27/03)](./DIA-04.md): A reunião definiu o uso do Scrum (com adaptações assíncronas) como metodologia e o GitHub Pages para documentação. A equipe optou por ferramentas mais simples, com tendência de escolha pelo Godot, e organizou a criação de um protótipo básico (animações e colisões) com entregas previstas para o início de abril.
-- [Dia 05 (04/04)](./DIA-05.md): Prototipar - Fechamento e Prototipagem
+- [Dia 05 (04/04)](./DIA-05.md): Validação - Fechamento e Prototipagem
 
 ## Referências
 
