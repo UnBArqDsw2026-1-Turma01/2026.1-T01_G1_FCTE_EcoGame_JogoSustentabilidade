@@ -27,43 +27,33 @@ As seguintes ferramentas viabilizaram a realização desta etapa de forma remota
 
 - **Comunicação em tempo real**: Google Meet
 - **Apresentação e compartilhamento dos esboços**: compartilhamento de tela
-- **Materiais analógicos utilizados**: papel A4, papel de caderno e lápis
+- **Criação de Rich Picture**: papel A4, papel de caderno e lápis, aplicativo de desenho digital, Draw.io
 
 ## Atividades Realizadas
 
-### 1. Refazer mapa do fluxo do usuário
+### 1. Apresentação dos Rich Pictures
 
-<p align="justify">
-Revisão e refinamento do mapa do fluxo do usuário criado no dia anterior, garantindo que os caminhos identificados estejam claros e completos para embasar as soluções que serão esboçadas.
-</p>
+ <p align="justify">
+ Cada integrante presente apresentou seu Rich Picture desenvolvido individualmente, expondo sua visão de solução para o problema definido no Dia 1.
+ </p>
 
-### 2. Lightning Demos
+### 2. Definição do Conceito do Jogo
 
-<p align="justify">
-Os membros da equipe se revezam fazendo apresentações de 3 minutos sobre possíveis soluções já existentes para os alvos levantados no dia anterior, seguindo as orientações:
-</p>
+ <p align="justify">
+ A partir das propostas apresentadas, a equipe debateu e consolidou o conceito central do jogo. Foram discutidos tema, mecânicas e público-alvo. 
+ </p>
 
-- Todos criam uma lista de produtos ou serviços em busca de soluções inspiradoras advindas de grandes companhias;
-- As fontes de inspiração podem vir de todos os lugares, não se restringindo apenas ao contexto do projeto;
-- Cada membro faz uma apresentação de 3 minutos;
-- O facilitador coloca as grandes ideias no quadro, fazendo perguntas como: "Qual é a grande ideia aqui que pode ser útil?"
+### 3. Alinhamento de Escopo
 
-### 3. Agrupar a Equipe
+ <p align="justify">
+ A equipe discutiu os limites do projeto para evitar excesso de funcionalidades. 
+ </p>
 
-<p align="justify">
-Momento de reagrupar a equipe para alinhar as ideias e preparar as próximas atividades.
-</p>
+### 4. Decisões de Tecnologia e Organização
 
-### 4. O Esboço em Quatro Etapas
-
-<p align="justify">
-Atividade principal do dia, dividida em quatro etapas:
-</p>
-
-- **Anotações**: A equipe caminha em silêncio pela sala e checa o quadro branco e demais artefatos, fazendo anotações. Essas anotações devem ser uma coletânea dos maiores "sucessos" das últimas 24 horas de Design Sprint;
-- **Ideias**: Preenchimento de uma folha de papel com ideias de desenhos, títulos experimentais, diagramas e bonecos de palito representando uma ação. Essa folha não é compartilhada com a equipe, serve como rascunho;
-- **Crazy 8s**: Cada membro recebe uma folha A4 dobrada em 8. Escolhe uma ideia e, em 8 minutos, faz 8 esboços diferentes sobre essa mesma ideia até não conseguir mais fazer variações, passando então para outra ideia circulada anteriormente;
-- **Esboço da solução (Storyboard)**: Esboço autoexplicativo e anônimo, com uso de palavras e títulos marcantes.
+ <p align="justify">
+ Foram tomadas decisões iniciais sobre a stack tecnológica e a estrutura organizacional da equipe.
+ </p>
 
 ## Artefatos Gerados
 
