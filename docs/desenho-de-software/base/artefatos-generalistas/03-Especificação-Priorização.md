@@ -16,13 +16,19 @@ Este documento apresenta a consolidação dos requisitos levantados durante os 5
 | RF04 | Animar coleta (on click) | O sistema deve acionar a animação de coleta do avatar ao clicar/interagir com um item coletável. | Must |
 | RF05 | Processar depósito/reciclagem | O sistema deve validar a proximidade à maquininha de reciclagem para processar e transformar itens do inventário. | Must |
 | RF06 | Sistema de craft | O sistema deve criar novos itens (úteis ou decorativos) a partir de combinações de materiais segundo receitas predefinidas, descontando-os do inventário. | Must |
-| RF07 | Gerir progresso | O sistema deve gerenciar a transição entre as fases de limpeza, replantio e reconstrução do cenário conforme o avanço do jogador. | Must |
+| RF07 | Gerir progresso | O sistema deve gerenciar a transição entre as fases de limpeza, replantio e reconstrução do cenário conforme o avanço do jogador. | Should|
 | RF08 | Desbloquear recursos | O sistema deve apresentar progressão baseada em desbloqueio de novos itens, receitas e áreas do mapa. | Must |
 | RF09 | Utilizar ferramentas | O sistema deve permitir uso de ferramentas (machado, picareta, pá) com animação própria acionada por botão, independente do sprite do avatar. | Must |
 | RF10 | Posicionar objetos no mapa | O sistema deve permitir ao jogador posicionar itens decorativos ou funcionais em células habilitadas do grid do mapa. | Must |
 | RF11 | Sistema de plantação | O sistema deve permitir agricultura em grid: o avatar rega as plantações com ferramenta, com área de irrigação inicial de 1 célula. | Should |
 | RF12 | Tela inicial | O sistema deve exibir tela inicial com as opções "Iniciar" e "Sair" (save não está no escopo do protótipo). | Must |
 | RF13 | Animação do avatar | O sistema deve apresentar sprites distintos para os estados: andando, coletando (agachado) e segurando objeto acima da cabeça. | Must |
+| RF14 | Música por cenário | O sistema deve suportar trilha ou efeitos sonoros por cenário para aumentar a imersão do protótipo. | Could |
+| RF15 | Construções simples | O sistema deve permitir construções simples como casa ou moinho. | Should |
+| RF16 | Sistema de combate | O sistema de combate deve ser considerado apenas como incremento de escopo futuro, em baixa prioridade. | Could |
+| RF17 | Múltiplos mapas | O sistema deve suportar múltiplos mapas apenas como expansão de escopo, em baixa prioridade. | Could |
+| RF18 | Missões complexas | O sistema deve incluir missões complexas apenas como incremento de escopo futuro. | Could |
+| RF19 | Sistema de mercado/guilda | O sistema deve incluir mercado ou guilda apenas como funcionalidade extra de baixa prioridade. | Could |
 
 ---
 
