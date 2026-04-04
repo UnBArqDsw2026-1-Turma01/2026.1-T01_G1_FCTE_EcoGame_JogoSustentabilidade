@@ -34,8 +34,8 @@
 
 
 
-## Histórico de Versões
+## historico de versão 
 
-| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
-| :----: | :-------: | :-------: | :--------------: | :---------: | :-------------: |
-| `1.0`  | 04/04/2026 | Criação do Documento.| [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  |  |
+| Versão |    Data    |          Descrição          |         Autor                         |     Revisor                                      |
+| :----: | :--------: | :-------------------------: | :-----------------------------------------: | :------------------------------------------------: |
+|  1.0   | 04/04/2026 | Criação do documento        | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [João Pedro] |

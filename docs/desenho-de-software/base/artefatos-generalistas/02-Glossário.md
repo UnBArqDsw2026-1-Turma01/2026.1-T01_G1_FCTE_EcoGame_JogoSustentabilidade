@@ -45,6 +45,6 @@ do dia 01/dia 02
 
 ## historico de versão 
 
-| Versão |    Data    |          Descrição          |         Autor                               |       Revisor                                      |
+| Versão |    Data    |          Descrição          |         Autor                         |     Revisor                                      |
 | :----: | :--------: | :-------------------------: | :-----------------------------------------: | :------------------------------------------------: |
 |  1.0   | 03/04/2026 | Criação do documento        | [Yasmin Abdon](https://github.com/yaabond) |  |
