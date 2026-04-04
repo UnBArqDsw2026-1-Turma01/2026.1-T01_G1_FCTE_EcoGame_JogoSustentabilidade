@@ -20,10 +20,11 @@ A etapa de Decidir foi conduzida seguindo as atividades propostas pelo método D
 ### Informações da Sessão
 
 - **Data de Realização**: 26/03
-- **Horário de Início**: A definir
-- **Horário de Término**: A definir
-- **Duração**: A definir
-- **Participantes**: A definir
+- **Horário de Início**: 20:40
+- **Horário de Término**: 21:30
+- **Duração**: 50 minutos
+- **Participantes**: Carlos, Daniel, Gabriel, Guilherme, Heytor, José, João, Matheus, Yasmin
+- **Faltantes**: Ryan
 
 ## Atividades Realizadas
 
@@ -81,3 +82,4 @@ Com base nos votos, a <i>rich picture</i> do Heyttor foi definida como a que mel
 | :----: | :--------: | :----------------------------: | :----------------------------------------------------: | :-----: |
 |  1.0   | 29/03/2026 |       Criação da página        |       [Gabriel Mendes](https://github.com/gbevi)       |         |
 |  2.0   | 30/03/2026 | Documentação do dia de decisão | [Guilherme Zanella](https://github.com/guilhermezan42) |  [Jose Oliveira](https://github.com/Jose1277) |
+| 3.0    | 04/04/2026 | Correção das datas             | [Carlos](https://github.com/Depaiiva) e [João](https://github.com/Jadequilin)|     |
