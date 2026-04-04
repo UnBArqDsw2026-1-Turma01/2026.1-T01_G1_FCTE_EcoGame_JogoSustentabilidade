@@ -85,7 +85,7 @@ Atividade principal do dia, dividida em quatro etapas:
 
 ### Mapa Mental - João
 
-![Mapa Mental - João](../../../assets/images/rich-picture-joao.jpg)
+![Mapa Mental - João](../../../assets/images/mapa_mental-joao.jpg)
 
 ### Rich Picture - Ryan
 

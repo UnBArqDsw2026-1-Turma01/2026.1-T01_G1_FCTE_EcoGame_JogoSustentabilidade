@@ -36,6 +36,9 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
    <tr>
     <td align="center"><a href="https://github.com/yaabdon"><img style="border-radius: 60%;" src="https://github.com/yaabdon.png" width="200px;" alt=""/><br /><sub><b>Yasmin Sousa Abdon</b></sub></a><br />
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/H3ytt0r62"><img style="border-radius: 60%;" src="https://github.com/H3ytt0r62.png" width="200px;" alt=""/><br /><sub><b>Heyttor Augusto de Assis Silva</b></sub></a><br />
+  </tr>
 </table>
 
 ## Histórico de versão
@@ -45,3 +48,4 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
 |  1.0   | 23/03/2026 | Início da documentação       | [Gabriel Mendes](https://github.com/gbevi)       |         |
 |  1.1   | 24/03/2026 | Adição de contribuidores     | [José Oliveira](https://github.com/Jose1277)     |         |
 |  1.2   | 02/04/2026 | Refinamento de nome e escopo     | [Yasmin Abdon](https://github.com/yaabdon)     |         |
+| 1.3 | 04/04/2026 | Refinamento de nome | [Heyttor Augusto](https://github.com/H3ytt0r62) | |

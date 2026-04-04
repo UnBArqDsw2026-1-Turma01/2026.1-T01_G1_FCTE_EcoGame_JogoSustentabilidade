@@ -59,13 +59,13 @@
         - 27/03/2026: administracao/reunioes/20260327.md
     - Desenho de Software:
       - base:
+        - Requisitos: desenho-de-software/base/Especificação-Priorização.md
         - design-sprint:
           - DIA-01: desenho-de-software/base/design-sprint/DIA-01.md
           - DIA-02: desenho-de-software/base/design-sprint/DIA-02.md
           - DIA-03: desenho-de-software/base/design-sprint/DIA-03.md
           - DIA-04: desenho-de-software/base/design-sprint/DIA-04.md
           - DIA-05: desenho-de-software/base/design-sprint/DIA-05.md
-          - requisitos-elicitados: desenho-de-software/base/design-sprint/requisitos-elicitados.md
           - Tabela de Contribuição: desenho-de-software/base/design-sprint/tabela-de-contribuicao.md
         - Artefatos Generalistas:
           - Visão Geral: desenho-de-software/base/artefatos-generalistas/01-Visao-geral.md
