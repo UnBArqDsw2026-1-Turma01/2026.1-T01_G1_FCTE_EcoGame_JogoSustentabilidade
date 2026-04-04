@@ -14,11 +14,12 @@ A etapa de Esboçar foi conduzida seguindo as atividades propostas pelo método 
 
 ### Informações da Sessão
 
-- **Data de Realização**: A definir
-- **Horário de Início**: A definir
-- **Horário de Término**: A definir
-- **Duração**: A definir
-- **Participantes**: A definir
+- **Data de Realização**: 24/03/2026
+- **Horário de Início**: 20:30
+- **Horário de Término**: 21:40
+- **Duração**: 1 hora e 10 minutos
+- **Participantes**: Carlos, Daniel, Guilherme, Heyttor, João, Matheus, Yasmin
+- **Faltas**: Gabriel, José, Ryan
 
 ## Atividades Realizadas
 
@@ -82,15 +83,15 @@ Atividade principal do dia, dividida em quatro etapas:
 
 ![Rich Picture - Heyttor](../../../assets/images/rich-picture-heyttor.jpg)
 
-### Rich Picture - João
+### Mapa Mental - João
 
-![Rich Picture - João](../../../assets/images/rich-picture-joao.jpg)
+![Mapa Mental - João](../../../assets/images/rich-picture-joao.jpg)
 
-### Rich Picture - Rennan
+### Rich Picture - Ryan
 
-![Rich Picture - Rennan](../../../assets/images/rich-picture-rennan.jpg)
+![Rich Picture - Ryan](../../../assets/images/rich-picture-ryan.jpg)
 
-### Rich Picture - Rennan
+### Rich Picture - Yasmin
 
 ![Rich Picture - Yasmin](../../../assets/images/rich-picture-yasmin.jpg)
 
@@ -106,4 +107,5 @@ Atividade principal do dia, dividida em quatro etapas:
 | Versão |    Data    |          Descrição           |                      Autor                       | Revisor |
 | :----: | :--------: | :--------------------------: | :----------------------------------------------: | :-----: |
 |  1.0   | 29/03/2026 | Criação da página            | [Gabriel Mendes](https://github.com/gbevi)       |         |
-|  1.1   | 03/04/2026 | Adicionando meu rich picture             | [Yasmin Abdon](https://github.com/yaabdon)       |         |
+|  1.1  | 03/04/2026 | Adicionando meu rich picture             | [Yasmin Abdon](https://github.com/yaabdon)       |         |
+|  1.3   | 04/04/2026 | Preenchimento das informações da sessão conforme Ata 2, ajustes e correções nos rich pictures, correção dos nomes dos autores e indicações sobre o uso de mapa mental | [Carlos](https://github.com/Depaiiva) e [João Pedro](https://github.com/jadequilin) |         |
