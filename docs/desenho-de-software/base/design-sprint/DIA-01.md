@@ -8,7 +8,7 @@ O primeiro dia do Design Sprint focou no Entendimento e na Definição do Proble
 
 ## Metodologia
 <p align="justify">
-A etapa de Entender foi conduzida com base em uma Adaptação Estratégica do Design Sprint, como pode ser visto na <a href="/administracao/reunioes/20260323/">Ata - reunião n1</a>. Nesta sessão, utilizou-se o Canva para uma dinâmica de divergência de ideias, visando o levantamento do escopo e do objetivo central do jogo.
+A etapa de Entender foi conduzida com base em uma Adaptação Estratégica do Design Sprint, como pode ser visto na <a href="../../../../administracao/reunioes/20260323/">Ata - reunião n1</a>. Nesta sessão, utilizou-se o Canva para uma dinâmica de divergência de ideias, visando o levantamento do escopo e do objetivo central do jogo.
 </p>
 
 ### Informações da Sessão
@@ -25,7 +25,7 @@ A etapa de Entender foi conduzida com base em uma Adaptação Estratégica do De
 
 ### Definição Temática e Brainstorming
 <p align="justify">
-Durante a discussão foram pensadas tecnologias que comportassem o estilo do jogo, levando em consideração a experiência da equipe com motores como Unreal, Godot e Raylib, além de linguagens como Python e Java. Os detalhes dessas discussões podem ser vistos no documento de <a href="/administracao/reunioes/20260323/">Ata - reunião n1</a>.
+Durante a discussão foram pensadas tecnologias que comportassem o estilo do jogo, levando em consideração a experiência da equipe com motores como Unreal, Godot e Raylib, além de linguagens como Python e Java. Os detalhes dessas discussões podem ser vistos no documento de <a href="../../../../administracao/reunioes/20260323/">Ata - reunião n1</a>.
 </p>
 
 
