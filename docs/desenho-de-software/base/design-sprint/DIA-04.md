@@ -3,13 +3,15 @@
 ## Introdução
 
 <p align="justify">
-  Esta seção documenta o processo de prototipação do projeto, detalhando as decisões técnicas, a escolha de ferramentas e a divisão de tarefas para a criação da primeira versão funcional (demo) do jogo. O foco inicial está na implementação de mecânicas básicas como movimentação, colisões e sistemas simples de inventário e <i>crafting</i>.
+  Esta seção documenta o processo de prototipação do projeto, detalhando as decisões técnicas, a escolha de ferramentas e a divisão de tarefas para a criação do primeiro <a href = "../../artefatos-generalistas/05-Prototipo/">protótipo de alta fidelidade (demo)</a> do jogo. O foco inicial está na implementação de mecânicas básicas como movimentação, colisões e sistemas simples de inventário e crafting.
 </p>
 
-## Metodologia
+## Metodologia 
 
 <p align="justify">
-  A equipe adotou a metodologia <b>Scrum</b> com adaptações para a realidade acadêmica, utilizando o <b>Kanban</b> para gestão visual de tarefas e formulários assíncronos para a realização das <i>dailies</i>. Para o desenvolvimento técnico, após debates sobre complexidade e hardware, houve uma forte tendência pela escolha da <i>engine</i> <b>Godot</b>, devido à sua leveza, natureza <i>open-source</i> e facilidade de aprendizado (GDScript).
+  Durante a quarta etapa do projeto, a equipe deliberou em reunião a criação de uma frente de trabalho dedicada exclusivamente à prototipagem. Esta decisão foi motivada pelo cronograma exíguo e pela necessidade de curva de aprendizado em ferramentas específicas, como o <b>Piskel</b> para <i>pixel art</i>.
+</p>
+O processo seguiu diretrizes estabelecidas  na <a href="../../../../administracao/reunioes/20260327/">Ata - reunião n4</a>
 </p>
 
 ### Informações da Sessão
@@ -22,28 +24,29 @@
 
 ## Atividades Realizadas
 
-### Definição da Metodologia de Trabalho
-- Confirmação do Scrum como metodologia principal.
-- Decisão de utilizar formulários (Google Forms ou similar) para as dailies assíncronas, evitando conflitos de horários.
-- Uso do quadro Kanban para acompanhamento das atividades finais.
+### 1. Definição de Escopo
+Para garantir a viabilidade do protótipo, o grupo delimitou as mecânicas prioritárias:
 
-### Escolha da Engine de Desenvolvimento
-- Análise comparativa entre Unreal, Unity, Godot e Game Maker.
-- Descarte da Unreal e Unity por serem consideradas "pesadas" e complexas para o escopo 2D.
-- Definição da Godot como favorita pela compatibilidade com diferentes sistemas (incluindo Linux) e baixo requisito de hardware.
+- Movimentação do personagem principal.
 
-### Planejamento do Protótipo de Média Fidelidade
-- Divisão de tarefas para a criação de artes em pixel art e scripts iniciais.
-- Definição de mecânicas prioritárias: movimentação do personagem (masculino), sistema de colisões, coleta de itens e crafting básico (ex: corda, vaso e banco).
+- Sistema de detecção de colisões.
 
-### Padronização Técnica
-- Estabelecimento de escalas para os ativos: bloco base (16x16), personagem (32x32) e ferramentas (tamanho intermediário).
-- Compromisso de manter a mesma versão da engine (Godot 4.x) entre todos os membros para evitar incompatibilidades de arquivos.
+- Lógica de coleta de itens e crafting básico (ex: fabricação de cordas, vasos e bancos).
 
-## Protótipo 
--  O protótipo foi realizado no estilo demo, um trailler que concatena todas as funcionalidades básicas que o grupo quer mostrar.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1MVse_eXZtw?si=IMxeKQHuFah4_4Iv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### 2. Padronização Técnica
+Estabeleceu-se o uso de Piskell, HTML, CSS e Javascript para garantir a consistência visual dos ativos:
+
+  - Itens pequenos como a garrafa de água, a casca de banana: 16 x 16 pixels
+  
+  - Para o tamamho do "Protagonista": 32 x 32 pixels
+
+  - Para o tamanho das árvores, da máquina de crafting: 64 x 64 (escalando para 128x128)
+ 
+### 4. Resultado: Protótipo de Alta fidelidade
+
+-  O protótipo foi realizado no estilo demo, um trailler que concatena todas as funcionalidades básicas que o grupo deseja implementar: [aqui](../artefatos-generalistas/05-Prototipo.md)
+
 
 ## Histórico de versão
 
@@ -51,3 +54,4 @@
 | :----: | :--------: | :--------------------------: | :----------------------------------------------: | :-----: |
 |  1.0   | 04/04/2026 | Modelo da página             | [Carlos](https://github.com/Depaiiva) e [João](https://github.com/Jadequilin)|     |
 | 2.0    | 04/04/2026 | Preenchimento das informações conforme a ata 4 | [Carlos](https://github.com/Depaiiva)|   |
+| 3.0    | 05/04/2026 | Correção e Preenchimento das informações conforme rastreabilidade trabalhada no repositório - Prototipo e Reunião da ata n4 | [Yasmin Abdon](https://github.com/yaabdon)|   |
