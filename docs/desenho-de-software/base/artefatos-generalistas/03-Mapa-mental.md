@@ -26,6 +26,12 @@
     <p>Autor(es): <a href="https://github.com/jadequilin">João Pedro</a>.</p>
   </div>
 
+  <div align="center">
+    <p><strong>Figura 2 – <em>Mapa mental do José</em> do José</strong></p>
+    <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/rich-picture-jose.png?raw=true">
+    <p>Autor(es): <a href="https://github.com/Jose1277">José Oliveira</a>.</p>
+  </div>
+
 
 
 ## Bibliografia
@@ -39,3 +45,4 @@
 | Versão |    Data    |          Descrição          |         Autor                         |     Revisor                                      |
 | :----: | :--------: | :-------------------------: | :-----------------------------------------: | :------------------------------------------------: |
 |  1.0   | 04/04/2026 | Criação do documento        | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [João Pedro] |
+|  1.1   | 05/04/2026 | Inserindo o mapa mental do José no arquivo e corrigindo gramática por consequência | [Yasmin Abdon](https://github.com/yaabdon) | |

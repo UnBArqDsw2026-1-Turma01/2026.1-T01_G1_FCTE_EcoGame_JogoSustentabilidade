@@ -12,7 +12,7 @@
   
   - E as **Preocupações** são exatamente os sentimentos, dificuldades ou os problemas que os atores enfrentam. Podem ser representadas como um balão de pensamento e são os elementos mais úteis do _Rich Picture_.
 
-  Além do _Rich Picture_, o Design Sprint permite variações como o **Mapa Mental**, que é uma ferramenta de organização de ideias em formato radial, partindo de um conceito central e ramificando em subideias. No contexto do projeto, o Mapa Mental do João foi aceito como uma representação válida das ideias, focando em gameplay, agricultura e público-alvo.
+  Além do _Rich Picture_, o Design Sprint permite variações como o **Mapa Mental**, que é uma ferramenta de organização de ideias em formato radial, partindo de um conceito central e ramificando em subideias. No contexto do projeto, os Mapas Mentais do <a href= "../03-Mapa-mental/">João e do José</a> foram aceito como uma representação válida das ideias, focando em gameplay, agricultura e público-alvo.
 
   A **Figura 1** abaixo apresenta um exemplo de _Rich Picture_.
 
@@ -55,23 +55,7 @@
   ---
 
   <div align="center">
-    <p><strong>Figura 4 – <em>Mapa Mental</em> do João</strong></p>
-    <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/rich-picture-joao.jpg?raw=true">
-    <p>Autor(es): <a href="https://github.com/Jadequilin">João Pedro</a>.</p>
-  </div>
-
-  ---
-
-  <div align="center">
-    <p><strong>Figura 5 – <em>Rich Picture</em> do José</strong></p>
-    <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/rich-picture-jose.png?raw=true">
-    <p>Autor(es): <a href="https://github.com/Jose1277">José Oliveira</a>.</p>
-  </div>
-
-  ---
-
-  <div align="center">
-    <p><strong>Figura 6 – <em>Rich Picture</em> do Matheus</strong></p>
+    <p><strong>Figura 4 – <em>Rich Picture</em> do Matheus</strong></p>
     <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/rich_picture_matheus.jpeg?raw=true">
     <p>Autor(es): <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
   </div>
@@ -79,7 +63,7 @@
   ---
 
   <div align="center">
-    <p><strong>Figura 7 – <em>Rich Picture</em> do Ryan</strong></p>
+    <p><strong>Figura 5 – <em>Rich Picture</em> do Ryan</strong></p>
     <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/rich-picture-ryan.jpg?raw=true">
     <p>Autor(es): <a href="https://github.com/RA-Salles">Ryan Salles</a>.</p>
   </div>
@@ -87,14 +71,10 @@
   ---
 
   <div align="center">
-    <p><strong>Figura 8 – <em>Rich Picture</em> da Yasmin</strong></p>
+    <p><strong>Figura 6 – <em>Rich Picture</em> da Yasmin</strong></p>
     <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/rich-picture-yasmin.jpg?raw=true">
     <p>Autor(es): <a href="https://github.com/yaabdon">Yasmin Abdon</a>.</p>
   </div>
-
-
-
-
 
 
 ## Bibliografia
@@ -111,4 +91,5 @@
 | :----: | :--------: | :-------------------------: | :-----------------------------------------: | :------------------------------------------------: |
 |  1.0   | 24/03/2026 | Adição do rich picture 1    | [Jose Oliveira](https://github.com/jose1277) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 |  1.1   | 28/03/2026 | Adiciona os tópicos Introdução e Metodologia | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  |
-|  1.2   | 04/04/2026 | Atualiza metodologia para incluir responsabilidade por Rich Picture ou Mapa Mental, assim como organização e correção de nomenclaturas | [Carlos](https://github.com/Depaiiva) e [João Pedro](https://github.com/Jadequilin) |  |
+|  1.2   | 04/04/2026 | Atualiza metodologia para incluir responsabilidade por Rich Picture ou Mapa Mental, assim como organização e correção de nomenclaturas | [Carlos](https://github.com/Depaiiva) e [João Pedro](https://github.com/Jadequilin) | [Yasmin Abdon](https://github.com/yaabdon) |
+|  1.2   | 05/04/2026 | Correção da nomenclatura e substiuição dos arquivos pelo link correspondente ao seu devido artefato (joão e josé) | [Yasmin Abdon](https://github.com/yaabdon) |  |
