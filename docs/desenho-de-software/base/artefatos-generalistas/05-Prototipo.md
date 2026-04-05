@@ -2,103 +2,63 @@
 <!--this is a model! copy this into the actual files and stuff-->
 <!--Remember -> mkdocs may break in unexpected ways. Always check your links!-->
 
-# Documentação do Protótipo: Sistema de Interação e Inventário
+# Documentação do Protótipo
 
 ## 1. Visão Geral
 
-Este protótipo consiste em um sistema interativo desenvolvido para um jogo ou simulação, focado na **coleta de itens** (lixo), **gerenciamento de inventário** e **interação com o cenário** (plantas e máquinas). O projeto destaca-se pela organização modular de ativos e colaboração entre múltiplos desenvolvedores e designers.
+Este artefato apresenta uma <b>demonstração em vídeo</b> que tem como propósito ilustrar a visão futura e o comportamento do sistema interativo do jogo "EcoGame" quando implementado em entregas futuras. O vídeo foca na apresentação das mecânicas: <b>coleta de itens</b> (resíduos), <b>gerenciamento de inventário</b> e <b>interação com o cenário</b> (elementos da flora e maquinários de reciclagem).
+<p align="justify">
+O projeto destaca-se pela identidade visual autoral, com artes feitas à mão pelos membros da equipe, abrangendo desde a vegetação até os itens de coleta (garrafas, resíduos orgânicos) e a estação de <i>crafting</i>. Esta demonstração serve como base visual para a validação do fluxo de jogo e da estética proposta.
+</p>
+
+## 2. Gravação (Demo em Vídeo) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sC0InVmMpRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 2. Divisão de Responsabilidades
+## 3. Divisão de Responsabilidades
 
 A equipe dividiu a criação dos componentes da seguinte forma:
 
 | Membro | Responsabilidades |
 | :----: | :-------------- |
-| **Heyttor** | Desenvolvimento e comportamento do Protagonista (boneco) |
+| **Heyttor** | Desenvolvimento e comportamento do Protagonista  |
 | **Yasmin** | Criação e assets das Plantas (árvores) e do sistema/objetos de Lixo |
 | **Jose** | Design e implementação da Tela de Início do sistema |
 | **João** | Desenvolvimento das Ferramentas, sistema de Inventário, modelo/interação da Casinha e organização/edição do video|
 
 ---
 
-## 3. Arquitetura de Pastas e Ativos
+## 3. Assets do Jogo (Artes e GIFs)
+As principais podem ser visualizadas a baixo:
 
-O projeto segue uma organização lógica para facilitar a integração:
+- ![GIF: Protagonista de frente](../../../assets/images/farmerM_idle_frente.gif)
 
-| Pasta | Conteúdo | Responsável |
-| :--: | :---- | :----: |
-| `/protagonista` | Sprites, scripts de movimento e animações do personagem | Heyttor |
-| `/maquina` | Assets da "casinha" ou máquinas de processamento | João |
-| `/lixo` | Modelos de resíduos a serem coletados no cenário | Yasmin |
-| `/inventario` | Interface de usuário (UI) e lógica de armazenamento de itens | João |
-| `/gifs` | Registros visuais das funcionalidades e animações | João |
-| `/ferramenta` | Itens utilizáveis pelo protagonista (pás, regadores, etc.) | João |
-| `/árvore_plantas` | Elementos de cenário e vegetação interativa | Yasmin |
+- ![GIF: Protagonista de costas](../../../assets/images/farmerM_andando_costas.gif)
 
----
+- ![GIF: Protagonista de lado](../../../assets/images/farmerM_lado_movumento.gif)
 
-## 4. Análise de Funcionalidades
+- ![GIF: Máquina de crafting](../../../assets/images/maquina.gif)
 
-### 4.1 Movimentação e Personagem
-O protagonista possui controles de movimentação fluida pelo cenário, permitindo a exploração das diferentes zonas de interesse.
+- ![GIF: Picareta](../../../assets/images/picareta.gif)
 
-### 4.2 Coleta e Lixo
-O sistema identifica objetos classificados como "lixo" espalhados pelo mapa. Ao interagir com eles, o item é removido do cenário e enviado para o buffer do jogador.
 
-### 4.3 Sistema de Inventário
-O inventário é uma peça central da interface, exibindo de forma visual os itens coletados:
-
-- **Slots**: Espaços definidos para cada tipo de recurso
-- **Feedback Visual**: Ícones representativos que facilitam a identificação rápida pelo usuário
-
-### 4.4 Interação com o Cenário
-- **Vegetação**: As plantas e árvores compõem o ecossistema, servindo como pontos de referência ou objetivos de cuidado
-- **Processamento**: A "casinha" ou máquina funciona como o ponto de entrega ou transformação dos itens coletados
+Todos os arquivos de arte, incluindo versões em alta resolução e arquivos editáveis do Piskel, podem ser encontrados na pasta oficial do projeto:
+[Acesse a pasta de Assets no Google Drive](https://drive.google.com/drive/folders/10wTsYJrfEzYvvWGVWbdFuk2pp05w02Nz?usp=drive_link)
 
 ---
 
-## 5. Fluxo do Protótipo
+## 4. Extras
 
-```
-┌─────────────────────────────────────────┐
-│ 1. Início                               │
-│    Tela inicial (Jose)                  │
-└────────────────┬────────────────────────┘
-                 ↓
-┌─────────────────────────────────────────┐
-│ 2. Exploração                           │
-│    Controle do boneco (Heyttor)        │
-└────────────────┬────────────────────────┘
-                 ↓
-┌─────────────────────────────────────────┐
-│ 3. Coleta                               │
-│    Identificação de lixo (Yasmin)      │
-│    Uso de ferramentas (João)           │
-└────────────────┬────────────────────────┘
-                 ↓
-┌─────────────────────────────────────────┐
-│ 4. Gestão                               │
-│    Inventário organiza coleta (João)    │
-└────────────────┬────────────────────────┘
-                 ↓
-┌─────────────────────────────────────────┐
-│ 5. Finalização                          │
-│    Interação com máquina/casa           │
-│    Conclusão do ciclo                   │
-└─────────────────────────────────────────┘
-```
-
+<p align="justify">
+Para detalhes sobre o processo de construção, escolha de ferramentas e evolução das mecânicas durante a fase de ideação, consulte o <a href = "../../design-sprint/DIA-04/">Relatório do Dia 04 - Design Sprint</a>.
+</p>
 ---
-
-## 6. Links de Referência
-
-- 📹 [Vídeo Demonstrativo](https://www.youtube.com/watch?v=xUc6wOs1BFg)
-- 📁 [Repositório de Arquivos](https://drive.google.com)
 
 ## Histórico de versão
 
 | Versão |    Data    |          Descrição           |                      Autor                       | Revisor |
 | :----: | :--------: | :--------------------------: | :----------------------------------------------: | :-----: |
-|  1.0   | 03/04/2026 | Criação da documentação do protótipo | [Daniel Nunes Daurte](https://github.com/DanNunes777) |         |
+|  1.0   | 03/04/2026 | Criação da documentação do protótipo | [Daniel Nunes Daurte](https://github.com/DanNunes777) |   [Yasmin Abdon](https://github.com/yaabdon)     |
+|  2.0   | 05/04/2026 | Correção e Incremento de objetos pertinentes do protótipo | [Yasmin Abdon](https://github.com/yaabdon) |    |
