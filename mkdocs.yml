@@ -57,6 +57,9 @@
         - 24/03/2026: administracao/reunioes/20260324.md
         - 26/03/2026: administracao/reunioes/20260326.md
         - 27/03/2026: administracao/reunioes/20260327.md
+        - ata-modelo: administracao/reunioes/atamodelo.md
+      - Entrevistas:
+        - 03/04/2026: administracao/entrevistas/entrevista20260403.md
     - Desenho de Software:
       - base:
         - design-sprint:
@@ -68,9 +71,10 @@
           - Tabela de Contribuição: desenho-de-software/base/design-sprint/tabela-de-contribuicao.md
         - Artefatos Generalistas:
           - Visão Geral: desenho-de-software/base/artefatos-generalistas/01-Visao-geral.md
+          - Glossario: desenho-de-software/base/artefatos-generalistas/02-Glossário.md
           - Mapa Mental: desenho-de-software/base/artefatos-generalistas/03-Mapa-mental.md
           - Rich Pictures: desenho-de-software/base/artefatos-generalistas/04-Rich-pictures.md
-          - Prototipo: desenho-de-software/base/artefatos-generalistas/Protótipo.md
+          - Prototipo: desenho-de-software/base/artefatos-generalistas/05-Protótipo.md
           #- 5W2H: desenho-de-software/base/artefatos-generalistas/5w2h.md
           #- Argumentações: desenho-de-software/base/artefatos-generalistas/argumentacoes.md
           - Tabela de Contribuição: desenho-de-software/base/artefatos-generalistas/tabela-de-contribuicao.md
@@ -81,16 +85,17 @@
           - Elicitação:
             - Visão Geral: desenho-de-software/base/iniciativas-extras/elicitacao/visao-geral.md
             - Brainstorming: desenho-de-software/base/iniciativas-extras/elicitacao/brainstorming.md
+            - Requisitos: desenho-de-software/base/iniciativas-extras/elicitacao/requisitos.md
             #- Análise de Protocolo: desenho-de-software/base/iniciativas-extras/elicitacao/analise-protocolo.md
             #- Análise de Discurso: desenho-de-software/base/iniciativas-extras/elicitacao/analise-discurso.md
             - Entrevistas: desenho-de-software/base/iniciativas-extras/elicitacao/entrevistas.md
-            - Questionário: desenho-de-software/base/iniciativas-extras/elicitacao/questionario.md
-            - Storytelling: desenho-de-software/base/iniciativas-extras/elicitacao/storytelling.md
-            - Léxicos: desenho-de-software/base/iniciativas-extras/elicitacao/lexicos.md
-          - Priorização:
-            - Visão Geral: desenho-de-software/base/iniciativas-extras/priorizacao/visao-geral.md
-            - MoSCoW: desenho-de-software/base/iniciativas-extras/priorizacao/moscow.md
-            - First Things First: desenho-de-software/base/iniciativas-extras/priorizacao/first-things-first.md
+            #- Questionário: desenho-de-software/base/iniciativas-extras/elicitacao/questionario.md
+            #- Storytelling: desenho-de-software/base/iniciativas-extras/elicitacao/storytelling.md
+            #- Léxicos: desenho-de-software/base/iniciativas-extras/elicitacao/lexicos.md
+          # - Priorização:
+            # - Visão Geral: desenho-de-software/base/iniciativas-extras/priorizacao/visao-geral.md
+            # - MoSCoW: desenho-de-software/base/iniciativas-extras/priorizacao/moscow.md
+            #- First Things First: desenho-de-software/base/iniciativas-extras/priorizacao/first-things-first.md
           - Tabela de Contribuição: desenho-de-software/base/iniciativas-extras/tabela-de-contribuicao.md
   #    - Modelagem:
   #      - Metodologia e Definições: dinamica-2/metodologia-definicoes.md
@@ -105,13 +110,8 @@
   #    - Documento de Arquitetura: dinamica-4/documento-arquitetura.md
   #    - Padrões de Projeto: dinamica-4/padroes-projeto.md
     - Extras:
-      - Plano de Comunicação: extras/plano-comunicacao.md
-      - Guia de Contribuição: extras/guia-contribuicao.md
-      - Reuniões: extras/reunioes.md
-      - Protótipo: extras/prototipo.md
-      - Referência Bibliográfica: extras/referencia-bibliografica.md
-      - Sprints do Projeto: extras/sprints-projeto.md
-      - Requisitos: extras/Especificação-Priorização.md
+      - Referência Bibliográfica: docs/extras/Referência-Bibliográfica.md
+      - Requisitos: docs/extras/Requisitos.md
 
   plugins:
     - search:
