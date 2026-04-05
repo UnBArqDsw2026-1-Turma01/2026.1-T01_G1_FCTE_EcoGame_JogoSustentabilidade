@@ -18,7 +18,7 @@
 
 ## Metodologia
 
-  A metodologia adotada para a criação do Mapa Mental seguiu o modelo do _Design Sprint_, particulamente as atividades realizadas no segundo e terceiro dias (terça-feira e quarta-feira). Na terça‑feira, a equipe se reuniu para discutir a ideia geral do projeto e, ao final, decidiu que cada integrante ficaria responsável por elaborar individualmente um _Rich Picture_ ou Mapa Mental. A **Figura 1** abaixo apresenta o Mapa Mental produzido nesse dia.
+  A metodologia adotada para a criação do Mapa Mental seguiu o modelo do _Design Sprint_, particulamente as atividades realizadas no [segundo](../design-sprint/DIA-02.md) e [terceiro](../design-sprint/DIA-03.md) dias da Design Sprint. Na terça‑feira, a equipe se reuniu para discutir a ideia geral do projeto e, ao final, decidiu que cada integrante ficaria responsável por elaborar individualmente um _Rich Picture_ ou Mapa Mental. A **Figura 1** abaixo apresenta o Mapa Mental produzido nesse dia.
 
   <div align="center">
     <p><strong>Figura 1 – Mapa Mental do João</strong></p>
@@ -46,3 +46,4 @@
 | :----: | :--------: | :-------------------------: | :-----------------------------------------: | :------------------------------------------------: |
 |  1.0   | 04/04/2026 | Criação do documento        | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [João Pedro] |
 |  1.1   | 05/04/2026 | Inserindo o mapa mental do José no arquivo e corrigindo gramática por consequência | [Yasmin Abdon](https://github.com/yaabdon) | |
+|  1.2   | 05/04/2026 | Inserindo link para referenciar os dias de design sprint citados nos artefatos | [Yasmin Abdon](https://github.com/yaabdon) | |
