@@ -3,7 +3,7 @@
 ## Introdução
 
 <p align="justify">
-O primeiro dia do Design Sprint focou no Entendimento e na Definição do Problema. A etapa iniciou-se com um <a href="/desenho-de-software/base/iniciativas-extras/elicitacao/brainstorming/"> Brainstorming </a> para alinhar os objetivos do projeto, discutir os desafios técnicos das tecnologias cogitadas e delimitar o escopo sob a temática de "Sustentabilidade". Após filtrar as ideias mais viáveis para o desenvolvimento, a equipe encerrou o dia, estabelecendo a base necessária para a continuidade no <a href="/desenho-de-software/base/design-sprint/DIA-02">dia 02</a>.
+O primeiro dia do Design Sprint focou no Entendimento e na Definição do Problema. A etapa iniciou-se com um <a href="../../iniciativas-extras/elicitacao/brainstorming/"> Brainstorming </a> para alinhar os objetivos do projeto, discutir os desafios técnicos das tecnologias cogitadas e delimitar o escopo sob a temática de "Sustentabilidade". Após filtrar as ideias mais viáveis para o desenvolvimento, a equipe encerrou o dia, estabelecendo a base necessária para a continuidade no <a href="/desenho-de-software/base/design-sprint/DIA-02">dia 02</a>.
 </p>
 
 ## Metodologia
