@@ -60,6 +60,7 @@
         - ata-modelo: administracao/reunioes/atamodelo.md
       - Entrevistas:
         - 03/04/2026: administracao/entrevistas/entrevista20260403.md
+        - 02/04/2026(noite): administracao/entrevistas/entrevista20260402.md
     - Desenho de Software:
       - base:
         - design-sprint:
