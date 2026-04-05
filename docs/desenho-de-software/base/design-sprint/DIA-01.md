@@ -3,7 +3,7 @@
 ## Introdução
 
 <p align="justify">
-O primeiro dia do Design Sprint focou no Entendimento e na Definição do Problema. A etapa iniciou-se com um <a href="/desenho-de-software/base/iniciativas-extras/elicitacao/brainstorming"> Brainstorming </a> para alinhar os objetivos do projeto, discutir os desafios técnicos das tecnologias cogitadas e delimitar o escopo sob a temática de "Sustentabilidade". Após filtrar as ideias mais viáveis para o desenvolvimento, a equipe encerrou o dia, estabelecendo a base necessária para a continuidade no <a href="/desenho-de-software/base/design-sprint/DIA-02">dia 02</a>.
+O primeiro dia do Design Sprint focou no Entendimento e na Definição do Problema. A etapa iniciou-se com um <a href="/desenho-de-software/base/iniciativas-extras/elicitacao/brainstorming/"> Brainstorming </a> para alinhar os objetivos do projeto, discutir os desafios técnicos das tecnologias cogitadas e delimitar o escopo sob a temática de "Sustentabilidade". Após filtrar as ideias mais viáveis para o desenvolvimento, a equipe encerrou o dia, estabelecendo a base necessária para a continuidade no <a href="/desenho-de-software/base/design-sprint/DIA-02">dia 02</a>.
 </p>
 
 ## Metodologia
@@ -45,4 +45,4 @@ Nesta fase, organizou-se o cronograma de trabalho e delegação da primeira entr
 | :----: | :--------: | :--------------------------: | :----------------------------------------------: | :-----: |
 |  1.0   | 29/03/2026 | Criação da página            | [Gabriel Mendes](https://github.com/gbevi)       |    [Yasmin Abdon](https://github.com/yaabdon)    |
 |  2.0   | 04/04/2026 | Modelo da página             | [Carlos](https://github.com/Depaiiva) e [João](https://github.com/Jadequilin)|   [Yasmin Abdon](https://github.com/yaabdon)  |
-|  2.1   | 04/04/2026 | Preenchimento da página com inserção de links para rastreabilidade             | [Yasmin Abdon](https://github.com/yaabdon)|     |
+|  2.1   | 05/04/2026 | Preenchimento da página com inserção de links para rastreabilidade             | [Yasmin Abdon](https://github.com/yaabdon)|     |
