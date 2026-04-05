@@ -1,3 +1,0 @@
-# Protótipo
-
-Página em construção.

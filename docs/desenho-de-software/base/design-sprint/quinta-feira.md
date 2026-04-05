@@ -1,3 +1,0 @@
-# Prototipar
-
-Página em construção.

@@ -1,3 +1,0 @@
-# Brainstorming
-
-Página em construção.
