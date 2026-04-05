@@ -40,7 +40,6 @@ O Design Sprint foi conduzido em quatro etapas principais, cada uma com objetivo
 ### Materiais Físicos
 - Papel A4
 - Caneta
-- Post it
 
 ### Ferramentas Digitais
 - Canva
@@ -65,4 +64,4 @@ O Design Sprint foi conduzido em quatro etapas principais, cada uma com objetivo
 | Versão |    Data    |          Descrição           |                      Autor                       | Revisor |
 | :----: | :--------: | :--------------------------: | :----------------------------------------------: | :-----: |
 |  1.0   | 29/03/2026 | Criação da página            | [Gabriel Mendes](https://github.com/gbevi)       |         |
-|  2.0   | 04/04/2026 | Correções e nova seção       | [Carlos](https://github.com/Depaiiva) e [João](https://github.com/Jadequilin) |     |
+|  2.0   | 04/04/2026 | Correções e nova seção       | [Carlos](https://github.com/Depaiiva) e [João](https://github.com/Jadequilin) |  [Yasmin Abdon](https://github.com/yaabdon)   |
