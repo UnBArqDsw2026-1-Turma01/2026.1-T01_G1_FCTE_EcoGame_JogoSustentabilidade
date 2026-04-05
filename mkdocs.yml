@@ -71,10 +71,10 @@
           - Tabela de Contribuição: desenho-de-software/base/design-sprint/tabela-de-contribuicao.md
         - Artefatos Generalistas:
           - Visão Geral: desenho-de-software/base/artefatos-generalistas/01-Visao-geral.md
-          - Glossario: desenho-de-software/base/artefatos-generalistas/02-Glossário.md
+          - Glossario: desenho-de-software/base/artefatos-generalistas/02-Glossario.md
           - Mapa Mental: desenho-de-software/base/artefatos-generalistas/03-Mapa-mental.md
           - Rich Pictures: desenho-de-software/base/artefatos-generalistas/04-Rich-pictures.md
-          - Prototipo: desenho-de-software/base/artefatos-generalistas/05-Protótipo.md
+          - Prototipo: desenho-de-software/base/artefatos-generalistas/05-Prototipo.md
           #- 5W2H: desenho-de-software/base/artefatos-generalistas/5w2h.md
           #- Argumentações: desenho-de-software/base/artefatos-generalistas/argumentacoes.md
           - Tabela de Contribuição: desenho-de-software/base/artefatos-generalistas/tabela-de-contribuicao.md
@@ -110,8 +110,8 @@
   #    - Documento de Arquitetura: dinamica-4/documento-arquitetura.md
   #    - Padrões de Projeto: dinamica-4/padroes-projeto.md
     - Extras:
-      - Referência Bibliográfica: docs/extras/Referência-Bibliográfica.md
-      - Requisitos: docs/extras/Requisitos.md
+      - Referência Bibliográfica: extras/referencia-bibliografica.md
+  #    - Requisitos: extras/Requisitos.md
 
   plugins:
     - search:
