@@ -45,6 +45,7 @@ O Design Sprint foi conduzido em quatro etapas principais, cada uma com objetivo
 - Canva
 - WhatsApp
 - Google Meet
+- Google Drive 
 
 ## Resumo do que foi feito
 - [Dia 01 (23/03)](./DIA-01.md): A reunião serviu para alinhar o planejamento técnico e criativo do jogo. A equipe realizou um brainstorming para definir o tema (sustentabilidade) e o escopo (MVP), selecionou as tecnologias (Java ou Unreal) e estabeleceu os requisitos funcionais básicos. Ficou decidido o foco em mecânicas simples de coleta e reciclagem, descartando funções complexas para garantir a entrega.
