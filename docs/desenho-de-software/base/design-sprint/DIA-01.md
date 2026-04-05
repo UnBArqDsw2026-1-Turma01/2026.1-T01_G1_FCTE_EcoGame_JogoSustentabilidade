@@ -3,7 +3,7 @@
 ## Introdução
 
 <p align="justify">
-O primeiro dia do Design Sprint focou no Entendimento e na Definição do Problema. A etapa iniciou-se com um <a href="../../iniciativas-extras/elicitacao/brainstorming/"> Brainstorming </a> para alinhar os objetivos do projeto, discutir os desafios técnicos das tecnologias cogitadas e delimitar o escopo sob a temática de "Sustentabilidade". Após filtrar as ideias mais viáveis para o desenvolvimento, a equipe encerrou o dia, estabelecendo a base necessária para a continuidade no <a href="/desenho-de-software/base/design-sprint/DIA-02">dia 02</a>.
+O primeiro dia do Design Sprint focou no Entendimento e na Definição do Problema. A etapa iniciou-se com um <a href="../../iniciativas-extras/elicitacao/brainstorming/"> Brainstorming </a> para alinhar os objetivos do projeto, discutir os desafios técnicos das tecnologias cogitadas e delimitar o escopo sob a temática de "Sustentabilidade". Após filtrar as ideias mais viáveis para o desenvolvimento, a equipe encerrou o dia, estabelecendo a base necessária para a continuidade no <a href="../DIA-02">dia 02</a>.
 </p>
 
 ## Metodologia
@@ -36,7 +36,7 @@ Para garantir a entrega dentro do cronograma, a equipe levantou possíveis funci
 
 ### Planejamento da Design Sprint
 <p align="justify">
-Nesta fase, organizou-se o cronograma de trabalho e delegação da primeira entrega individual. Foi estruturado o cronograma das atividades assíncronas e encontros remotos para o <a href="/desenho-de-software/base/design-sprint/DIA-02">dia 02</a> seguido pelos dias <a href="/desenho-de-software/base/design-sprint/DIA-03">03</a> e <a href="/desenho-de-software/base/design-sprint/DIA-04">04</a>. Como ação imediata, cada membro assumiu a responsabilidade de elaborar um <a href="/desenho-de-software/base/artefatos-generalistas/04-Rich-pictures">Rich Picture</a> para apresentação na reunião seguinte.
+Nesta fase, organizou-se o cronograma de trabalho e delegação da primeira entrega individual. Foi estruturado o cronograma das atividades assíncronas e encontros remotos para o <a href="../DIA-02">dia 02</a> seguido pelos dias <a href="../DIA-03">03</a> e <a href="../DIA-04">04</a>. Como ação imediata, cada membro assumiu a responsabilidade de elaborar um <a href="/desenho-de-software/base/artefatos-generalistas/04-Rich-pictures">Rich Picture</a> para apresentação na reunião seguinte.
 </p>
 
 ## Histórico de versão
