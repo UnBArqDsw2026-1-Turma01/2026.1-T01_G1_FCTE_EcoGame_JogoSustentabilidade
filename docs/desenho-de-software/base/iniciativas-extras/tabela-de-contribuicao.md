@@ -18,6 +18,6 @@
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :----: | :--: | :-------: | :-------: | :---------: |
-| `1.0`  | 29/03/2026 | Criação do Documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  |
+| Versão | Data       | Descrição            | Autor(es)                                                  | Revisor(es) |
+| :----: | :--:       | :-------:            | :-------:                                                  | :---------: |
+| `1.0`  | 29/03/2026 | Criação do Documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |             |

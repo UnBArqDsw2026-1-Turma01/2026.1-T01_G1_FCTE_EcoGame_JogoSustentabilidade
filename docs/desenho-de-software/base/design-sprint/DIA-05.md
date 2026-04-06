@@ -30,7 +30,7 @@ A etapa de Validar foi conduzida seguindo as atividades propostas pelo método D
 ## Atividades Realizadas
 
 <p align="justify">
-A validação do protótipo foi realizada de forma distribuída, alguns integrantes da equipe foram responsáveis por se reunir e documentar a reunião feita com seus possiveis usuarios. As sessões de validação incluíram feedbacks com usuários e análise de pontos fortes,oportunidades de melhoria e sugestões.
+A validação do protótipo foi realizada de forma distribuída, alguns integrantes da equipe foram responsáveis por se reunir e documentar a reunião feita com seus possiveis usuarios. As sessões de validação incluíram feedbacks com usuários e análise de pontos fortes, oportunidades de melhoria e sugestões.
 </p>
 
 ## Referências
@@ -43,19 +43,22 @@ A validação do protótipo foi realizada de forma distribuída, alguns integran
 
 As atas detalhadas das validações realizadas por cada membro da equipe estão disponíveis abaixo:
 
-[Reunião 1 02/04/2026](../../../administracao/entrevistas/entrevista20260402.md)
-[Reunião 2 03/04/2026](../../../administracao/entrevistas/entrevista20260403.md)
+- [Reunião 1 02/04/2026](../../../administracao/entrevistas/entrevista20260402.md)
+- [Reunião 2 03/04/2026](../../../administracao/entrevistas/entrevista20260403.md)
 
 ### Validações por Participante
 
-[Link da reunião 1](https://www.youtube.com/embed/AldXxnF7OI0)
-[Link da reunião 2](https://www.youtube.com/embed/AldXxnF7OI0)
-[link da reunião 3](https://youtu.be/nfpvyf-1psk)
+- [Link da reunião 1](https://www.youtube.com/embed/AldXxnF7OI0)
+
+- [Link da reunião 2](https://www.youtube.com/embed/AldXxnF7OI0)
+
+- [link da reunião 3](https://youtu.be/nfpvyf-1psk)
 
 
 ## Histórico de versão
 
-| Versão |    Data    |          Descrição           |                      Autor                       | Revisor |
-| :----: | :--------: | :--------------------------: | :----------------------------------------------: | :-----: |
-|  1.0   | 03/04/2026 | Criação da página de Design Sprint 5(Sexta-feira)          | [Daniel Nunes Daurte](https://github.com/DanNunes777) |         |
-|1.1| 05/04/2026 | ajuste na documentação | [Heyttor augusto](https://github.com/H3ytt0r62) | |
+| Versão |    Data    |          Descrição                                 |                      Autor                            | Revisor |
+| :----: | :--------: | :--------------------------:                       | :----------------------------------------------:      | :-----: |
+|  1.0   | 03/04/2026 | Criação da página de Design Sprint 5(Sexta-feira)  | [Daniel Nunes Daurte](https://github.com/DanNunes777) |         |
+|  1.1   | 05/04/2026 | ajuste na documentação                             | [Heyttor augusto](https://github.com/H3ytt0r62)       |         |
+|  1.2   | 05/04/2026 | Pequenos ajustes de formatação                     | [Ryan Salles    ](https://github.com/RA-SAlles)       |         |
