@@ -40,7 +40,8 @@ Destaques da produção:
 | **V2** | 04/03/2026 | Yasmin  | [aqui](../../../assets/images/Edicao_Yasmin.drawio.png) |
 | **V3** | 04/03/2026 | Ryan | [aqui](../../../assets/images/Edicao_Ryan.drawio.png) |
 | **V4** | 05/03/2026 | Heyttor | [aqui](../../../assets/images/Edicao_Heyttor.drawio.png) |
-| **V5 (Final)** | 05/04/2026 | Equipe | [aqui](../../../assets/images/Edicao_Heyttor.drawio.png) |
+| **V5** | 06/03/2026 | João Pedro | [aqui](../../../assets/images/Edicao_Joao.drawio.png) |
+| **V6 (Final)** | 05/04/2026 | Equipe | [aqui](../../../assets/images/Edicao_Joao.drawio.png) |
 
 
 ## Conclusão
@@ -57,6 +58,7 @@ A modelagem BPMN serve como a ponte entre o <b>Brainstorming</b> (ideação) e a
 
 | Versão |    Data    |          Descrição          |         Autor                               |       Revisor                                      |
 | :----: | :--------: | :-------------------------: | :-----------------------------------------: | :------------------------------------------------: |
-|  1.0   | 05/04/2026 | Preenchimento da página e inserção das versões editadas do BPMN | [Yasmin Abdon](https://github.com/yaabdon) | |
+|  1.0   | 05/04/2026 | Preenchimento da página e inserção das versões editadas do BPMN | [Yasmin Abdon](https://github.com/yaabdon) | [João Pedro](https://github.com/Jadequilin) |
+|  2.0   | 06/04/2026 | Adição da correção do BPMN mesclado com SCRUM | [João Pedro](https://github.com/Jadequilin) | [Yasmin Abdon](https://github.com/yaabdon) |
 
 
