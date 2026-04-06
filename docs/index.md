@@ -41,13 +41,13 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
       <a href="https://github.com/guilhermezan42">
         <img style="border-radius: 60%;" src="https://github.com/guilhermezan42.png" width="200px;" alt=""/><br /><sub><b>Guilherme Costa Zanella</b></sub></a><br />
     </td>
-      </tr>
-      <tr>
     <td align="center">
       <a href="https://github.com/H3ytt0r62">
         <img style="border-radius: 60%;" src="https://github.com/H3ytt0r62.png" width="200px;" alt=""/>
         <br /><sub><b>Heyttor Augusto de Assis Silva</b></sub></a><br />
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://github.com/Jadequilin">
         <img style="border-radius: 60%;" src="https://github.com/Jadequilin.png" width="200px;" alt=""/>
