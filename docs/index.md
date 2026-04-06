@@ -27,6 +27,10 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
 ## Contribuidores
 
 <table>
+    <tr>
+    <td align="center"><a href="https://github.com/Depaiiva"><img style="border-radius: 60%;" src="https://github.com/Depaiiva.png" width="200px;" alt=""/><br /><sub><b>Carlos Henrique de Paiva Munis</b></sub></a><br />
+  </tr>
+
   <tr>
     <td align="center"><a href="https://github.com/gbevi"><img style="border-radius: 60%;" src="https://github.com/gbevi.png" width="200px;" alt=""/><br /><sub><b>Gabriel Dantas Bevilaqua Mendes</b></sub></a><br />
   </tr>
@@ -54,3 +58,4 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
 |  1.2   | 02/04/2026 | Refinamento de nome e escopo     | [Yasmin Abdon](https://github.com/yaabdon)     |         |
 | 1.3 | 04/04/2026 | Refinamento de nome | [Heyttor Augusto](https://github.com/H3ytt0r62) | |
 | 1.4 | 05/04/2026 | Adição de nome, organização em ordem alfabética | [João Pedro Lyra](https://github.com/Jadequilin) |  |
+| 1.5 | 05/04/2026 | Adição do nome | [Carlos](https://github.com/Depaiiva)| |
