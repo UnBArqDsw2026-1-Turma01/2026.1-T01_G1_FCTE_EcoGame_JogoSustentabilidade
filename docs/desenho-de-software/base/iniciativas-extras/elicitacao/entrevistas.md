@@ -21,4 +21,4 @@ As validações foram segmentadas por data de execução, contendo o link para a
 | :----: | :--------: | :-------------------------: | :-----------------------------------------: | :------------------------------------------------: |
 |  1.0  | 23/03/2024 | Criação da página       | [Gabriel Mendes](https://github.com/gbevi) | [Yasmin Abdon](https://github.com/yaabdon) |
 |  2.0   | 05/04/2026 | Retorno da página e preenchimento do seu conteúdo - adição de links | [Yasmin Abdon](https://github.com/yaabdon) | |
-| 3.0    | 06/04/2026 | Adição da entrevista sessão 03 | [João Pedro Lyra](https://github.com/jadequilin) | |
+| 3.0    | 05/04/2026 | Adição da entrevista sessão 03 | [João Pedro Lyra](https://github.com/jadequilin) | |
