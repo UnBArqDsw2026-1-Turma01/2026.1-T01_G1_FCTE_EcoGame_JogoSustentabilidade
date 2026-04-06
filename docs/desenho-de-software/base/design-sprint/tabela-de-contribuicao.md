@@ -16,6 +16,8 @@
 | Yasmin Abdon | Preenchimento da página do dia 01 com inserção de links de rastreio das atividades | Excelente | [Link do commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/6c43319c784197b090271d45fa5df32c751540bb)
 | Yasmin Abdon | Inserção necessária de documentos e links na página 05-Prototipo | Excelente | [Link do commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/c8bb4d823c1789139f2ca3a0d5174b3267d1d2b7)
 | Yasmin Abdon | Correção do conteúdo da página do DIA-04 | Boa | [Link do commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/39967b3b0ade345e19944660967c0719b2d96215)
+| Gabriel Mendes |Adição da página do DIA-02 | Excelente | [Link do commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/7bf13865fa1f06e5d63289fe8c6a2bdb28770e0d)
+| Gabriel Mendes |Adição da página visão geral | Excelente | [Link do commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/f2c44f9b4034dc1e0122875b88a868dc92485f48)
 
 
 
