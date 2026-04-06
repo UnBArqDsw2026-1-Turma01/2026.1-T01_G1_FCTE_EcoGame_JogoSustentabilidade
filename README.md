@@ -31,8 +31,8 @@ Documentação do projeto G1_JogoSustentabilidade da disciplina de Arquitetura e
     </td>
     <td align="center">
       <a href="https://github.com/DanNunes777">
-        <img style="border-radius: 50%;" src="https://github.com/H3ytt0r62.png" width="150px" alt="Daniel Nunes Duarte"/><br />
-        <sub><b>Heyttor Augusto de Assis Silva</b></sub>
+        <img style="border-radius: 50%;" src="https://github.com/DanNunes777.png" width="150px" alt="Daniel Nunes Duarte"/><br />
+        <sub><b>Daniel Nunes Duarte</b></sub>
       </a>
     </td>
   </tr>
