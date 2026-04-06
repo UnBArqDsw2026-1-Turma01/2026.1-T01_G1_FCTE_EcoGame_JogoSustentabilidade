@@ -44,10 +44,16 @@
 
 ### Outros Rich Pictures produzidos
 
-  Como mencionado anteriormente, cada integrante da equipe ficou responsável por produzir um _Rich Picture_. As figuras 3 a 8 abaixo apresentam esses _Rich Pictures_ que não foram selecionados, em ordem alfabética.
+  Como mencionado anteriormente, cada integrante da equipe ficou responsável por produzir um _Rich Picture_. As figuras 3 a 7 abaixo apresentam esses _Rich Pictures_ que não foram selecionados, em ordem alfabética.
 
   <div align="center">
-    <p><strong>Figura 3 – <em>Rich Picture</em> do Heyttor</strong></p>
+    <p><strong>Figura 3 – <em>Rich Picture</em> do Daniel</strong></p>
+    <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/richpicture_daniel.jpeg?raw=true">
+    <p>Autor(es): <a href="https://github.com/H3ytt0r62">Daniel</a>.</p>
+  </div>
+
+  <div align="center">
+    <p><strong>Figura 4 – <em>Rich Picture</em> do Heyttor</strong></p>
     <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/rich-picture-heyttor.jpg?raw=true">
     <p>Autor(es): <a href="https://github.com/H3ytt0r62">Heyttor Augusto</a>.</p>
   </div>
@@ -55,7 +61,7 @@
   ---
 
   <div align="center">
-    <p><strong>Figura 4 – <em>Rich Picture</em> do Matheus</strong></p>
+    <p><strong>Figura 5 – <em>Rich Picture</em> do Matheus</strong></p>
     <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/rich_picture_matheus.jpeg?raw=true">
     <p>Autor(es): <a href="https://github.com/MatheusHenrickSantos">Matheus Henrick</a>.</p>
   </div>
@@ -63,7 +69,7 @@
   ---
 
   <div align="center">
-    <p><strong>Figura 5 – <em>Rich Picture</em> do Ryan</strong></p>
+    <p><strong>Figura 6 – <em>Rich Picture</em> do Ryan</strong></p>
     <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/rich-picture-ryan.jpg?raw=true">
     <p>Autor(es): <a href="https://github.com/RA-Salles">Ryan Salles</a>.</p>
   </div>
@@ -71,7 +77,7 @@
   ---
 
   <div align="center">
-    <p><strong>Figura 6 – <em>Rich Picture</em> da Yasmin</strong></p>
+    <p><strong>Figura 7 – <em>Rich Picture</em> da Yasmin</strong></p>
     <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/rich-picture-yasmin.jpg?raw=true">
     <p>Autor(es): <a href="https://github.com/yaabdon">Yasmin Abdon</a>.</p>
   </div>
