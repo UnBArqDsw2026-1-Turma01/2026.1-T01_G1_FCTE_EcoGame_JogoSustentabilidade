@@ -40,8 +40,8 @@ Destaques da produção:
 | **V2** | 04/03/2026 | Yasmin  | [aqui](../../../assets/images/Edicao_Yasmin.drawio.png) |
 | **V3** | 04/03/2026 | Ryan | [aqui](../../../assets/images/Edicao_Ryan.drawio.png) |
 | **V4** | 05/03/2026 | Heyttor | [aqui](../../../assets/images/Edicao_Heyttor.drawio.png) |
-| **V5** | 06/03/2026 | João Pedro | [aqui](../../../assets/images/Edicao_Joao.drawio.png) |
-| **V6 (Final)** | 05/04/2026 | Equipe | [aqui](../../../assets/images/Edicao_Joao.drawio.png) |
+| **V5** | 06/03/2026 | João Pedro | [aqui](../../../assets/images/Edicao_João.drawio.png) |
+| **V6 (Final)** | 05/04/2026 | Equipe | [aqui](../../../assets/images/Edicao_João.drawio.png) |
 
 
 ## Conclusão
