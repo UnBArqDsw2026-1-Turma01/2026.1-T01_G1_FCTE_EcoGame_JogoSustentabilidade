@@ -22,6 +22,8 @@
 | Yasmin Abdon | Inserção necessária de documentos e links na página 05-Prototipo | Excelente | [Link do commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/c8bb4d823c1789139f2ca3a0d5174b3267d1d2b7)|
 | Yasmin Abdon | Correção do conteúdo da página do DIA-04 | Boa | [Link do commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/39967b3b0ade345e19944660967c0719b2d96215)|
 | Matheus Henrick | Produziu ata da reunião 4 | Boa | [Link do Pull Request](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/pull/19) |
+| Daniel Nunes Duarte |Adição da página do DIA-05 | Excelente | [Link do commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/798290140f41c0112c65e2d50cdf3a207e412672)|
+
 
 
 
