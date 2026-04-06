@@ -86,4 +86,6 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
 |  1.4   | 05/04/2026 | Adição de nome, organização em ordem alfabética |      [João Pedro Lyra](https://github.com/Jadequilin)      |         |
 |  1.5   | 05/04/2026 |                 Adição do nome                  |           [Carlos](https://github.com/Depaiiva)            |         |
 |  1.6   | 05/04/2026 |              Adiciona participante              | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |         |
-|  1.7   | 05/04/2026 |              Adição de nome e foto              |   [Guilherme Zanella](https://github.com/guilhermezan42)   |         |
+|  1.7   | 05/04/2026 |              Adição de nome e foto              |   [Guilherme Zanella](https://github.com/guilhermezan42)   | [Daniel Nunes Duarte](https://github.com/DanNunes777)  |
+|  1.8   | 05/04/2026 |              Adição de nome, foto e link             |   [Daniel Nunes Duarte](https://github.com/DanNunes777)   |         |
+
