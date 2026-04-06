@@ -8,7 +8,7 @@
 
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) | Comprobatórios Claros (com link) |
 | :-: | :-: | :-: | :-: |
-| Matheus Henrick | Reorganização das pastas do projeto |  | [Link do Commit]() |
+| Matheus Henrick | Reorganização das pastas do projeto | Ruim | [Link do Commit]() |
 
 
 

@@ -40,10 +40,10 @@
 
 
 
-## historico de versão 
+## Histórico de versão 
 
-| Versão |    Data    |          Descrição          |         Autor                         |     Revisor                                      |
-| :----: | :--------: | :-------------------------: | :-----------------------------------------: | :------------------------------------------------: |
+| Versão | Data | Descrição | Autor | Revisor |
+| :----: | :--: | :-------: | :---: | :-----: |
 |  1.0   | 04/04/2026 | Criação do documento        | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [João Pedro] |
 |  1.1   | 05/04/2026 | Inserindo o mapa mental do José no arquivo e corrigindo gramática por consequência | [Yasmin Abdon](https://github.com/yaabdon) | |
 |  1.2   | 05/04/2026 | Inserindo link para referenciar os dias de design sprint citados nos artefatos | [Yasmin Abdon](https://github.com/yaabdon) | |
