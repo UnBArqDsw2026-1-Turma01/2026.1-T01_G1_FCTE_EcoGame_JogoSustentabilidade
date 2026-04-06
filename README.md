@@ -41,6 +41,11 @@ Documentação do projeto G1_JogoSustentabilidade da disciplina de Arquitetura e
         <br /><sub><b>Matheus Henrick</b></sub></a><br />
     </td>
     <td align="center">
+      <a href="https://github.com/RA-Salles">
+        <img style="border-radius: 60%;" src="https://github.com/RA-Salles.png" width="150px;" alt=""/>
+        <br /><sub><b>Yasmin Sousa Abdon</b></sub></a><br />
+    </td>
+    <td align="center">
       <a href="https://github.com/yaabdon">
         <img style="border-radius: 60%;" src="https://github.com/yaabdon.png" width="150px;" alt=""/>
         <br /><sub><b>Yasmin Sousa Abdon</b></sub></a><br />
