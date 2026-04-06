@@ -111,8 +111,8 @@
   #  - Arquitetura de Software e Reutilização:
   #    - Documento de Arquitetura: dinamica-4/documento-arquitetura.md
   #    - Padrões de Projeto: dinamica-4/padroes-projeto.md
-    - Extras:
-      - Referência Bibliográfica: extras/referencia-bibliografica.md
+  #  - Extras:
+  #    - Referência Bibliográfica: extras/referencia-bibliografica.md
   #    - Requisitos: extras/Requisitos.md
 
   plugins:
