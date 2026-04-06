@@ -1,8 +1,8 @@
 # ATA DE ENTREVISTA 02-04-2026
 
 **Data:** 02 de abril de 2026  
-**Local/Plataforma:** Google Meet  
-**Horário:** 20:10  
+**Local/Plataforma:** Residência de Rivaldavio
+**Horário:** 11:20  
 
 ---
 
@@ -10,8 +10,10 @@
 
 | Nome               | Função                     |
 |--------------------|--------------------------|
-| Rivadalvio Joaquim   | Stakeholder              |
-| João Pedro Lyra   | Entrevistador            |
+| Filipe Ribeiro     | Stakeholder              |
+| Miqueias Ezequiel  | Stakeholder              |
+| Heyttor Augusto    | Entrevistador            |
+| Yasmin Souza       | Editor/Corretor/Revisor  |
 
 ---
 
@@ -22,6 +24,7 @@ O propósito desta entrevista é:
 - Completar o quinto dia do Development Sprint  
 - Buscar opiniões dos usuários de projetos de referência  
 - Coletar sugestões para melhoria do projeto  
+-  Mostrar funcionalidades do protótipo
 
 ---
 
@@ -35,7 +38,7 @@ Perguntas norteadoras utilizadas durante a entrevista:
 - Foi possível identificar que os itens coletáveis no mapa eram uma garrafa e uma casca de banana?
 - Havia algo estranho ou incomum no mapa?
 - Algum elemento ou funcionalidade despertou interesse em jogar o protótipo quando disponível?
-- Existe alguma funcionalidade comum em jogos *cozy* que você gostaria de ver no projeto?
+- Existe alguma funcionalidade comum em jogos *cozy*, *indie* e/ou *fazendinha* que você gostaria de ver no projeto?
 - Você acredita que o projeto contempla o tema de sustentabilidade?
 
 ---
@@ -46,17 +49,16 @@ Resumo dos principais feedbacks coletados:
 
 | ID | Citação / Feedback do Usuário                                                                 | Tempo |
 |----|----------------------------------------------------------------------------------------------|-------|
-| 01 | "Os itens são identificáveis facilmente"                                                    | 1 min |
-| 02 | "Ter itens coletáveis e interações com a fazenda me despertou o interesse"                  | 2 min |
-| 03 | "Construção ou estradinhas deixariam o jogo mais completo"                                  | 1 min |
-| 04 | "Sons ao coletar itens e outros efeitos sonoros deixam o jogo mais completo"                | 1 min |
-| 05 | "Poderia ter uma limpeza de rio"                                                            | 1 min |
+| 01 | "Os itens são identificáveis facilmente"                                                     | 1 min |
+| 02 | "As funcionalidades são bem descritas e fáceis de enteder"                                   | 1 min |
+| 03 | "Ter itens coletáveis e interações com a fazenda me despertou o interesse"                   | 2 min |
+| 04 | "A imagem do galho pode ser refatorada para melhor compreensão"                            | 2 min |    
 
 ---
 
 ## 5. Gravação e Evidências
 
-A reunião foi realizada de forma remota.
+A reunião foi realizada de forma presencial.
 
 🔗 **Link da gravação:**  
-https://youtu.be/pH_xjRWZ4oQ?si=OcpRe6Fiih4xzyBi
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nfpvyf-1psk?si=rYY1yvcU3_qp_9iU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
