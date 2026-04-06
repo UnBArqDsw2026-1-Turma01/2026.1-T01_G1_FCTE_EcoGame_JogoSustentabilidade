@@ -8,6 +8,7 @@
 
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) | Comprobatórios Claros (com link) |
 | :-: | :-: | :-: | :-: |
+| Daniel Nunes Duarte | Criação do Documento de Prototipação | Boa | [Link do Commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/806277f79c5d09a0b66ccb2fd5e28a3f4aa6a9eb) |
 | Matheus Henrick | Criação do Documento de Rich Picture | Boa | [Link do Commit](https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/commit/260975f3b1c1fe3b83a7c8ce17d4f2df919c067c) |
 | Heyttor Augusto | Ata da reunião 2 e primeira elicitação de requisitos | Boa | [Link do Commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/e81bf413d232f318c7cce0553c7dec81b3af7050)| 
 | Heyttor Augusto | Crianção do documento de elicitação de requisitos | Boa | [Link do Commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/e81bf413d232f318c7cce0553c7dec81b3af7050) |
