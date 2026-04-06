@@ -34,7 +34,7 @@ As seguintes ferramentas viabilizaram a realização desta etapa de forma remota
 ### 1. Apresentação dos Rich Pictures
 
  <p align="justify">
- Cada integrante presente apresentou seu Rich Picture desenvolvido individualmente, expondo sua visão de solução para o problema definido no Dia 1.
+ Cada integrante presente apresentou seu Rich Picture desenvolvido individualmente, expondo sua visão de solução para o problema definido no Dia 1, essas apresentações podem ser vistas <a href="../../../../administracao/reunioes/20260324/">Ata - reunião n2</a>.
  </p>
 
 ### 2. Definição do Conceito do Jogo

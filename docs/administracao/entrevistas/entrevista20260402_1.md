@@ -21,7 +21,7 @@ O propósito desta entrevista é:
 - Completar o quinto dia do Development Sprint  
 - Buscar opiniões dos usuários de projetos de referência  
 - Coletar sugestões para melhoria do projeto  
--  Mostrar funcionalidades do protótipo
+- Mostrar funcionalidades do protótipo
 
 ---
 

@@ -57,7 +57,7 @@ Cada integrante apresentou seu <i>rich picture</i>, explicando sua proposta de s
 ### 3. Análise Coletiva
 
 <p align="justify">
-Após as apresentações, os <i>rich pictures</i> foram analisados em conjunto, considerando aspectos como clareza da solução proposta, coerência com o problema definido e potencial de aplicação prática.
+Após as apresentações, os <i>rich pictures</i> foram analisados em conjunto, considerando aspectos como clareza da solução proposta, coerência com o problema definido e potencial de aplicação prática. Os richpicture podem ser visto de uma maneira mais detalhada <a href="../artefatos-generalistas/04-Rich-pictures.md">Aqui</a>. 
 </p>
 
 ### 4. Discussão e Críticas
@@ -75,7 +75,7 @@ Ao final das discussões, foi realizada uma votação entre os membros da equipe
 ### 6. Escolha da Melhor Solução
 
 <p align="justify">
-Com base nos votos, a <i>rich picture</i> do Heyttor foi definida como a que melhor representa a solução a ser seguida. Essa decisão servirá como base para as próximas etapas do Design Sprint.
+Com base nos votos, a <i>rich picture</i> do Heyttor foi definida como a que melhor representa a solução a ser seguida. Essa decisão servirá como base para as próximas etapas do Design Sprint. Os detalhes dos motivos da escolha podem ser vistos na <a href="../../../administracao/reunioes/20260326.md">Ata - reunião n3</a>.
 </p>
 
 ## Rich Picture Escolhida

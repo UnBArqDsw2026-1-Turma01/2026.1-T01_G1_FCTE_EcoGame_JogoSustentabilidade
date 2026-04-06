@@ -49,7 +49,7 @@
   <div align="center">
     <p><strong>Figura 3 – <em>Rich Picture</em> do Daniel</strong></p>
     <img src=https://github.com/UnBArqDsw2026-1-Turma01/grupo-1/blob/main/docs/assets/images/richpicture_daniel.jpeg?raw=true">
-    <p>Autor(es): <a href="https://github.com/H3ytt0r62">Daniel</a>.</p>
+    <p>Autor(es): <a href="https://github.com/DanNunes777">Daniel Nunes</a>.</p>
   </div>
 
   <div align="center">
@@ -99,3 +99,4 @@
 |  1.1   | 28/03/2026 | Adiciona os tópicos Introdução e Metodologia | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  |
 |  1.2   | 04/04/2026 | Atualiza metodologia para incluir responsabilidade por Rich Picture ou Mapa Mental, assim como organização e correção de nomenclaturas | [Carlos](https://github.com/Depaiiva) e [João Pedro](https://github.com/Jadequilin) | [Yasmin Abdon](https://github.com/yaabdon) |
 |  1.2   | 05/04/2026 | Correção da nomenclatura e substiuição dos arquivos pelo link correspondente ao seu devido artefato (joão e josé) | [Yasmin Abdon](https://github.com/yaabdon) |  |
+| 1.3| 06/04/2026 | Adição do richpicture do Daniel | [Heyttor Augusto](https://github.com/H3ytt0r62) | |
