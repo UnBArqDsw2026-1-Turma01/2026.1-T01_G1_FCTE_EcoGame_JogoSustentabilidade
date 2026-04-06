@@ -46,6 +46,10 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
         <img style="border-radius: 60%;" src="https://github.com/H3ytt0r62.png" width="200px;" alt=""/>
         <br /><sub><b>Heyttor Augusto de Assis Silva</b></sub></a><br />
     </td>
+    <td align="center">
+      <a href="https://github.com/DanNunes777">
+        <img style="border-radius: 60%;" src="https://github.com/DanNunes777.png" width="200px;" alt=""/>
+        <br /><sub><b>Daniel Nunes Duarte</b></sub></a><br />
     </tr>
     <tr>
     <td align="center">
