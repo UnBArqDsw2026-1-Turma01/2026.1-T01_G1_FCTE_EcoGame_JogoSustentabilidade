@@ -38,6 +38,12 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
         <img style="border-radius: 60%;" src="https://github.com/gbevi.png" width="200px;" alt=""/><br /><sub><b>Gabriel Dantas Bevilaqua Mendes</b></sub></a><br />
     </td>
     <td align="center">
+      <a href="https://github.com/guilhermezan42">
+        <img style="border-radius: 60%;" src="/assets/images/foto-guilherme.jpeg" width="200px;" alt=""/><br /><sub><b>Gabriel Dantas Bevilaqua Mendes</b></sub></a><br />
+    </td>
+      </tr>
+      <tr>
+    <td align="center">
       <a href="https://github.com/H3ytt0r62">
         <img style="border-radius: 60%;" src="https://github.com/H3ytt0r62.png" width="200px;" alt=""/>
         <br /><sub><b>Heyttor Augusto de Assis Silva</b></sub></a><br />
@@ -67,12 +73,13 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
 
 ## Histórico de versão
 
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | :--: | :-------: | :---: | :-----: |
-|  1.0   | 23/03/2026 | Início da documentação       | [Gabriel Mendes](https://github.com/gbevi)       |         |
-|  1.1   | 24/03/2026 | Adição de contribuidores     | [José Oliveira](https://github.com/Jose1277)     |         |
-|  1.2   | 02/04/2026 | Refinamento de nome e escopo     | [Yasmin Abdon](https://github.com/yaabdon)     |         |
-| 1.3 | 04/04/2026 | Refinamento de nome | [Heyttor Augusto](https://github.com/H3ytt0r62) | |
-| 1.4 | 05/04/2026 | Adição de nome, organização em ordem alfabética | [João Pedro Lyra](https://github.com/Jadequilin) |  |
-| 1.5 | 05/04/2026 | Adição do nome | [Carlos](https://github.com/Depaiiva)| |
-| 1.6 | 05/04/2026 | Adiciona participante | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  |
+| Versão |    Data    |                    Descrição                    |                           Autor                            | Revisor |
+| :----: | :--------: | :---------------------------------------------: | :--------------------------------------------------------: | :-----: |
+|  1.0   | 23/03/2026 |             Início da documentação              |         [Gabriel Mendes](https://github.com/gbevi)         |         |
+|  1.1   | 24/03/2026 |            Adição de contribuidores             |        [José Oliveira](https://github.com/Jose1277)        |         |
+|  1.2   | 02/04/2026 |          Refinamento de nome e escopo           |         [Yasmin Abdon](https://github.com/yaabdon)         |         |
+|  1.3   | 04/04/2026 |               Refinamento de nome               |      [Heyttor Augusto](https://github.com/H3ytt0r62)       |         |
+|  1.4   | 05/04/2026 | Adição de nome, organização em ordem alfabética |      [João Pedro Lyra](https://github.com/Jadequilin)      |         |
+|  1.5   | 05/04/2026 |                 Adição do nome                  |           [Carlos](https://github.com/Depaiiva)            |         |
+|  1.6   | 05/04/2026 |              Adiciona participante              | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |         |
+|  1.7   | 05/04/2026 |              Adição de nome e foto              |   [Guilherme Zanella](https://github.com/guilhermezan42)   |         |
