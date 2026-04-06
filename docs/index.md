@@ -27,35 +27,52 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
 ## Contribuidores
 
 <table>
-    <tr>
-    <td align="center"><a href="https://github.com/Depaiiva"><img style="border-radius: 60%;" src="https://github.com/Depaiiva.png" width="200px;" alt=""/><br /><sub><b>Carlos Henrique de Paiva Munis</b></sub></a><br />
-  </tr>
-
   <tr>
-    <td align="center"><a href="https://github.com/gbevi"><img style="border-radius: 60%;" src="https://github.com/gbevi.png" width="200px;" alt=""/><br /><sub><b>Gabriel Dantas Bevilaqua Mendes</b></sub></a><br />
+    <td align="center">
+      <a href="https://github.com/Depaiiva">
+        <img style="border-radius: 60%;" src="https://github.com/Depaiiva.png" width="200px;" alt=""/>
+        <br /><sub><b>Carlos Henrique de Paiva Munis</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/gbevi">
+        <img style="border-radius: 60%;" src="https://github.com/gbevi.png" width="200px;" alt=""/><br /><sub><b>Gabriel Dantas Bevilaqua Mendes</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/H3ytt0r62">
+        <img style="border-radius: 60%;" src="https://github.com/H3ytt0r62.png" width="200px;" alt=""/>
+        <br /><sub><b>Heyttor Augusto de Assis Silva</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jadequilin">
+        <img style="border-radius: 60%;" src="https://github.com/Jadequilin.png" width="200px;" alt=""/>
+        <br /><sub><b>João Pedro Araújo de Freitas Lyra</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jose1277">
+        <img style="border-radius: 60%;" src="https://github.com/Jose1277.png" width="200px;" alt=""/>
+        <br /><sub><b>José Oliveira</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/MatheusHenrickSantos">
+        <img style="border-radius: 60%;" src="https://github.com/MatheusHenrickSantos.png" width="200px;" alt=""/>
+        <br /><sub><b>Matheus Henrick</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/yaabdon">
+        <img style="border-radius: 60%;" src="https://github.com/yaabdon.png" width="200px;" alt=""/>
+        <br /><sub><b>Yasmin Sousa Abdon</b></sub></a><br />
+    </td>
   </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/H3ytt0r62"><img style="border-radius: 60%;" src="https://github.com/H3ytt0r62.png" width="200px;" alt=""/><br /><sub><b>Heyttor Augusto de Assis Silva</b></sub></a><br />
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Jadequilin"><img style="border-radius: 60%;" src="https://github.com/Jadequilin.png" width="200px;" alt=""/><br /><sub><b>João Pedro Araújo de Freitas Lyra</b></sub></a><br />
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Jose1277"><img style="border-radius: 60%;" src="https://github.com/Jose1277.png" width="200px;" alt=""/><br /><sub><b>José Oliveira</b></sub></a><br />
-  </tr>
-   <tr>
-    <td align="center"><a href="https://github.com/yaabdon"><img style="border-radius: 60%;" src="https://github.com/yaabdon.png" width="200px;" alt=""/><br /><sub><b>Yasmin Sousa Abdon</b></sub></a><br />
-  </tr>
-  
 </table>
 
 ## Histórico de versão
 
-| Versão |    Data    |          Descrição           |                      Autor                       | Revisor |
-| :----: | :--------: | :--------------------------: | :----------------------------------------------: | :-----: |
+| Versão | Data | Descrição | Autor | Revisor |
+| :----: | :--: | :-------: | :---: | :-----: |
 |  1.0   | 23/03/2026 | Início da documentação       | [Gabriel Mendes](https://github.com/gbevi)       |         |
 |  1.1   | 24/03/2026 | Adição de contribuidores     | [José Oliveira](https://github.com/Jose1277)     |         |
 |  1.2   | 02/04/2026 | Refinamento de nome e escopo     | [Yasmin Abdon](https://github.com/yaabdon)     |         |
 | 1.3 | 04/04/2026 | Refinamento de nome | [Heyttor Augusto](https://github.com/H3ytt0r62) | |
 | 1.4 | 05/04/2026 | Adição de nome, organização em ordem alfabética | [João Pedro Lyra](https://github.com/Jadequilin) |  |
 | 1.5 | 05/04/2026 | Adição do nome | [Carlos](https://github.com/Depaiiva)| |
+| 1.6 | 05/04/2026 | Adiciona participante | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  |

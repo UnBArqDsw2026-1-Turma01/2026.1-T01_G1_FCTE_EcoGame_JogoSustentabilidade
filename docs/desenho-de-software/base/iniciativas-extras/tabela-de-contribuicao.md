@@ -8,7 +8,7 @@
 
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) | Comprobatórios Claros (com link) |
 | :-: | :-: | :-: | :-: |
-| Matheus Henrick | Reorganização das pastas do projeto |  | [Link do Commit]() |
+| Matheus Henrick | Reorganização das pastas do projeto | Ruim | [Link do Commit]() |
 | Yasmin Abdon | removendo arquivos vazios que não fazem parte da entrega| Ruim |[Link do Commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/33ead926e8d55126a4f863d6fbc51ed291a2f5e4)
 | Yasmin Abdon | Retorno de páginas deletadas e atualização do mkdocs.yml | Regular | [Link do Commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/4f277dbdfc52059cdf7dc7f8ee69f5d8ebbf4697)
 | Yasmin Abdon | Preenchimento básico da pagina de elicitacao/entrevistas | Boa | [Link do Commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/e7ba298fb63463a009c3a04aeae02d6e523f8fba)

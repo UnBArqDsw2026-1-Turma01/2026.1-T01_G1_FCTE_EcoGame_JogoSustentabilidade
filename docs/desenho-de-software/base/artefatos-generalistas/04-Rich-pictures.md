@@ -85,10 +85,10 @@
 
 
 
-## historico de versão 
+## Histórico de versão 
 
-| Versão |    Data    |          Descrição          |         Autor                         |     Revisor                                      |
-| :----: | :--------: | :-------------------------: | :-----------------------------------------: | :------------------------------------------------: |
+| Versão | Data | Descrição | Autor | Revisor |
+| :----: | :--: | :-------: | :---: | :-----: |
 |  1.0   | 24/03/2026 | Adição do rich picture 1    | [Jose Oliveira](https://github.com/jose1277) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
 |  1.1   | 28/03/2026 | Adiciona os tópicos Introdução e Metodologia | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  |
 |  1.2   | 04/04/2026 | Atualiza metodologia para incluir responsabilidade por Rich Picture ou Mapa Mental, assim como organização e correção de nomenclaturas | [Carlos](https://github.com/Depaiiva) e [João Pedro](https://github.com/Jadequilin) | [Yasmin Abdon](https://github.com/yaabdon) |
