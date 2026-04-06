@@ -27,15 +27,14 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
 ## Contribuidores
 
 <table>
-  <tr>
     <td align="center">
       <a href="https://github.com/Depaiiva">
-        <img style="border-radius: 60%;" src="https://github.com/Depaiiva.png" width="200px;" alt=""/>
+        <img  style="border-radius: 60%;" src="https://github.com/Depaiiva.png"  width="200px; alt="/>
         <br /><sub><b>Carlos Henrique de Paiva Munis</b></sub></a><br />
     </td>
     <td align="center">
       <a href="https://github.com/gbevi">
-        <img style="border-radius: 60%;" src="https://github.com/gbevi.png" width="200px;" alt=""/><br /><sub><b>Gabriel Dantas Bevilaqua Mendes</b></sub></a><br />
+        <img style="border-radius: 60%;" src="https://github.com/gbevi.png"  width="200px; alt="/><br /><sub><b>Gabriel Dantas Bevilaqua Mendes</b></sub></a><br />
     </td>
     <td align="center">
       <a href="https://github.com/guilhermezan42">
@@ -69,11 +68,11 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
     </td>
     <td align="center">
       <a href="https://github.com/yaabdon">
-        <img style="border-radius: 60%;" src="https://github.com/yaabdon.png" width="200px;" alt=""/>
+        <img  style="border-radius: 60%;" src="https://github.com/yaabdon.png" width="200px;" alt=""/>
         <br /><sub><b>Yasmin Sousa Abdon</b></sub></a><br />
     </td>
-  </tr>
 </table>
+
 
 ## Histórico de versão
 
@@ -88,4 +87,4 @@ O tema de sustentabilidade apresenta relevância social e necessidade educativa.
 |  1.6   | 05/04/2026 |              Adiciona participante              | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |         |
 |  1.7   | 05/04/2026 |              Adição de nome e foto              |   [Guilherme Zanella](https://github.com/guilhermezan42)   | [Daniel Nunes Duarte](https://github.com/DanNunes777)  |
 |  1.8   | 05/04/2026 |              Adição de nome, foto e link             |   [Daniel Nunes Duarte](https://github.com/DanNunes777)   |         |
-
+|1.9 | 06/04/2026 |  Revisão e correção de imagens|[Heyttor Augusto](https://github.com/H3ytt0r62) | |

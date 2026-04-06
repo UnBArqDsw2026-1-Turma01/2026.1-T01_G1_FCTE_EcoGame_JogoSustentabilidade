@@ -10,11 +10,8 @@
 
 | Nome               | Função                     |
 |--------------------|--------------------------|
-| Filipe Ribeiro     | Stakeholder              |
-| Miqueias Ezequiel  | Stakeholder              |
-| Heyttor Augusto    | Entrevistador            |
-| Yasmin Souza       | Editor/Corretor/Revisor  |
-
+| Rivadalvio Joaquim   | Stakeholder              |
+| João Pedro Lyra   | Entrevistador            |
 ---
 
 ## 2. Objetivos da Reunião
@@ -62,3 +59,7 @@ A reunião foi realizada de forma presencial.
 
 🔗 **Link da gravação:**  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nfpvyf-1psk?si=rYY1yvcU3_qp_9iU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Versão |    Data    |                    Descrição                    |                           Autor                            | Revisor |
+| :----: | :--------: | :---------------------------------------------: | :--------------------------------------------------------: | :-----: |
+|  1.0   | 04/03/2026 |             Início da documentação              |          [João Pedro Lyra](https://github.com/Jadequilin)         |         |

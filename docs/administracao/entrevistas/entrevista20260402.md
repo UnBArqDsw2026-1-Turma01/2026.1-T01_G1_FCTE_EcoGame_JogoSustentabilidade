@@ -10,8 +10,12 @@
 
 | Nome               | Função                     |
 |--------------------|--------------------------|
-| Rivadalvio Joaquim   | Stakeholder              |
-| João Pedro Lyra   | Entrevistador            |
+| Filipe Ribeiro     | Stakeholder              |
+| Miqueias Ezequiel  | Stakeholder              |
+| Heyttor Augusto    | Entrevistador            |
+| Yasmin Souza       | Editor/Corretor/Revisor  |
+
+
 
 ---
 
@@ -58,5 +62,9 @@ Resumo dos principais feedbacks coletados:
 
 A reunião foi realizada de forma remota.
 
-🔗 **Link da gravação:**  
-https://youtu.be/pH_xjRWZ4oQ?si=OcpRe6Fiih4xzyBi
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pH_xjRWZ4oQ?si=wojz-Sw5s7YCHbJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+| Versão |    Data    |                    Descrição                    |                           Autor                            | Revisor |
+| :----: | :--------: | :---------------------------------------------: | :--------------------------------------------------------: | :-----: |
+|  1.0   | 04/03/2026 |             Início da documentação              |      [Heyttor Augusto](https://github.com/H3ytt0r62)         |         |

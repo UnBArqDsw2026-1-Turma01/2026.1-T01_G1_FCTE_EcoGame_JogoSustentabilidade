@@ -39,7 +39,7 @@ do dia 01/dia 02
 | **Rich Picture** | Artefato visual informal utilizado no design sprint para representar a visão de cada membro sobre o sistema, suas relações e os problemas a resolver, sem seguir um formalismo rígido. |
 | **Sprite** | Imagem bidimensional que representa visualmente um personagem ou objeto no jogo. No projeto, cada estado do avatar (andando, coletando, segurando item) possui um sprite dedicado, criado no Piskel e exportado para o Godot. |
 | **WASD** | Esquema de controle que utiliza as teclas W (frente), A (esquerda), S (trás) e D (direita) para a movimentação do avatar. |
-
+|**Cozy Game**| Estilo de jogo focado em atividades relaxantes, sem violencia ou pressão, geralmente com uma trila sonora calma e visuais suaves| 
 
 ---
 
@@ -48,3 +48,4 @@ do dia 01/dia 02
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 |  1.0   | 03/04/2026 | Criação do documento        | [Yasmin Abdon](https://github.com/yaabond) |  |
+|1.5 | 06/04/2026| Adição do termo "cozy" | [Heyttor Augusto](https://github.com/H3ytt0r62) | |

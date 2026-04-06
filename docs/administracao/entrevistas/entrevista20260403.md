@@ -91,3 +91,7 @@ A reunião foi realizada de forma remota por meio da plataforma *Google Meet*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AldXxnF7OI0?si=8u8D81A8VEC9xS72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+| Versão |    Data    |                    Descrição                    |                           Autor                            | Revisor |
+| :----: | :--------: | :---------------------------------------------: | :--------------------------------------------------------: | :-----: |
+|  1.0   | 04/03/2026 |             Início da documentação              |      Ryan salles         |         |
