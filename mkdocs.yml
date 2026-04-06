@@ -63,8 +63,9 @@
         - 02/04/2026(noite): administracao/entrevistas/entrevista20260402.md
         - 02/04/2026(manhã): administracao/entrevistas/entrevista20260402_1.md
     - Desenho de Software:
-      - Base:
+      # - Base:
         - Design Sprint:
+          - Visao Geral: desenho-de-software/base/design-sprint/visao-geral.md
           - DIA-01: desenho-de-software/base/design-sprint/DIA-01.md
           - DIA-02: desenho-de-software/base/design-sprint/DIA-02.md
           - DIA-03: desenho-de-software/base/design-sprint/DIA-03.md
