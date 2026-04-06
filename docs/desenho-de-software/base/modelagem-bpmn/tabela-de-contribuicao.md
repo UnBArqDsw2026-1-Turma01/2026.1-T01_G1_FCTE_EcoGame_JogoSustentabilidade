@@ -8,8 +8,8 @@
 
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) | Comprobatórios Claros (com link) |
 | :-: | :-: | :-: | :-: |
-| João Pedro | Adição de conteúdo para a página de modelagem BPMN | Excelente | [Link do commit]() | 
-| Yasmin Abdon | Adiciona conteudo para a pagina de modelagem-bpmn | Excelente | [Link do commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/b0e4ce16ae7202ca0dcdd60fabd0fda559e55cdc)
+| João Pedro | Adição de conteúdo para a página de modelagem BPMN | Excelente | [Link do commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/5218b2b4e0be8f331a39f5d36b5164f65841ba51) | 
+| Yasmin Abdon | Adiciona conteudo para a pagina de modelagem-bpmn | Excelente | [Link do commit](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G1_FCTE_EcoGame_JogoSustentabilidade/commit/b0e4ce16ae7202ca0dcdd60fabd0fda559e55cdc) | 
 | Gabriel Mendes | V1 da modelagem-bpmn | Excelente | 
 
 
