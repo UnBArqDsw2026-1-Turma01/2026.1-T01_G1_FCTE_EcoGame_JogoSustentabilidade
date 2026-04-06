@@ -18,7 +18,7 @@ Segundo Osborn, a eficácia do método reside em quatro pilares: foco na <b>quan
 </p>
 
 ##  Registro Visual:
-O quadro abaixo documenta a sessão de divergência realizada coletivamente no Dia 01 LINK?.
+O quadro abaixo documenta a sessão de divergência realizada coletivamente no [dia 01](../../design-sprint/DIA-01.md).
 
  <div align="center">
     <p><strong> Figura Única – <em>Brainstorming</em> do dia 01 </strong></p>
