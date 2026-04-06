@@ -32,6 +32,6 @@
 | :----: | :--: | :-------: | :-------: | :---------: |
 | `1.0`  | 29/03/2026 | Criação do Documento | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | - |
 | `1.1`  | 05/04/2026 | Adiciona contribuição | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  |
-| `1.2`  | 06/04/2026 | Adiciona contribuição | [João Pedro](https://github.com/Jadequilin)| |
+| `1.2`  | 06/04/2026 | Adiciona contribuição | [João Pedro](https://github.com/Jadequilin)| [Daniel Nunes Duarte](https://github.com/DanNunes777) |
 | `1.3`  | 06/04/2026 | Adiciona contribuição | [Daniel Nunes Duarte](https://github.com/DanNunes777)| |
 
