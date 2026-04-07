@@ -4,7 +4,11 @@ EM CONSTRUÇÃO
 -->
 # Especificação de Requisitos e Priorização
 
-Este documento apresenta a consolidação dos requisitos levantados durante os 5 dias de Design Sprint. A estrutura utiliza o modelo FURPS+ para categorização técnica e a técnica MoSCoW para definição de prioridade de implementação. 
+Este documento apresenta a consolidação dos requisitos levantados durante os 5 dias de Design Sprint. A fundamentação para esta etapa baseia-se na distinção clássica proposta por ([Sommerville (2011)](#ref-sommerville)), que divide as necessidades do sistema em duas frentes:
+    
+- Requisitos Funcionais: que descrevem o que o sistema deve fazer e as funções específicas, entradas e saídas que o software deve processar (Sommerville, seção 4.1.1).
+
+- Requisitos Não Funcionais: que, embora não descrevam serviços específicos, impõem restrições críticas às propriedades emergentes do sistema, como desempenho, confiabilidade e proteção, sendo muitas vezes mais vitais para a utilidade do software do que funções isoladas (Sommerville, seção 4.1.2).
 
 ## Requisitos Funcionais
 
@@ -46,29 +50,30 @@ Este documento apresenta a consolidação dos requisitos levantados durante os 5
 
 ## Requisitos Não Funcionais
 
-| ID | Nome | Descrição | Prioridade | Rastreabilidade |
-| :--- | :--- | :--- | :--- | :------|  
-| RNF01 | Plataforma de implementação | O sistema deve ser desenvolvido na engine Godot, escolhida pela simplicidade de uso e suporte nativo a jogos 2D. | Must |[aqui](../../../../administracao/reunioes/20260326.md)|
-| RNF02 | Estética visual pixel art | Os sprites devem ser criados manualmente no Piskel, em estilo Pixel Art de baixa resolução, sem uso de geração por IA. | Must |[aqui](../../../../administracao/reunioes/20260326.md)|
-| RNF03 | Grid-based | O mapa deve ser dividido em células quadradas de tamanho definido, servindo de base para posicionamento de sprites e lógica de interação. | Must |[aqui](../../../../administracao/reunioes/20260326.md)|
-| RNF04 | Prototipagem iterativa | O protótipo deve ser entregue como demo em vídeo (produzido no After Effects e Premiere) acompanhado de uma página HTML de apresentação do projeto. | Must |[aqui](../../../../administracao/reunioes/20260326.md)|
-| RNF05 | Documentação versionada | Todos os artefatos (Rich Pictures, storyboards, gravações, vídeo demo, página HTML) devem ser versionados e publicados no GitHub Pages com histórico por contribuidor. | Must |[aqui](../../../../administracao/reunioes/20260326.md)|
-| RNF06 | Artefatos autorais | Os artefatos visuais devem ser claramente feitos por humanos; conteúdo gerado por IA será penalizado conforme critério da professora. | Must |[aqui](../../../../administracao/reunioes/20260326.md)|
-| RNF07 | Exportação de sprites | Os sprites e animações criados no Piskel devem ser exportados em formatos compatíveis com Godot (PNG por frame ou GIF). | Must |[aqui](../../../../administracao/reunioes/20260326.md)|
-| RNF08 | Validação com usuários reais | O vídeo demo deve ser apresentado a ao menos dois usuários externos com experiência no gênero para coleta de feedback antes da entrega. | Should |[aqui](../../../../administracao/reunioes/20260326.md)|
-|RNF09 | Garantir a integridade dos dados no GitPages.| Todo o histórico de versões e documentação deve ser mantido de forma íntegra no repositório do grupo. | Must| [aqui](../administracao/reunioes/20260323.md)|
-|RNF10| Tamanho dos blocos | Cada bloco do cenário deve ter um tamanho T, em pixels. | Must | [aqui](../../../../administracao/reunioes/20260327.md)|
-|RNF11| Tamanho do jogador| O jogador deve ter tamanho equivalente a 2T pixels. | Must| [aqui](../../../../administracao/reunioes/20260327.md)|
-|RNF12| Tamanho das ferramentas | Ferramentas devem ter tamanho aproximado de 1,5T pixels.| Must| [aqui](../../../../administracao/reunioes/20260327.md)|
-|RNF13| tamanho do mundo | O mundo deve ser pelo menos 1000x maior que o jogador| Must | [aqui](../../../../administracao/reunioes/20260327.md)|
-
-
-
+| ID | Nome | Descrição | Tipo | Prioridade | Rastreabilidade |
+| :--- | :--- | :--- | :--- | :--- | :------|  
+| RNF01 | Plataforma de implementação | O sistema deve ser desenvolvido na engine Godot, escolhida pela simplicidade de uso e suporte nativo a jogos 2D. | Desenvolvimento | Must | [aqui](../../../../administracao/reunioes/20260326.md)|
+| RNF02 | Estética visual pixel art | Os sprites devem ser criados manualmente no Piskel, em estilo Pixel Art de baixa resolução, sem uso de geração por IA. | Ético |Must | [aqui](../../../../administracao/reunioes/20260326.md)|
+| RNF03 | Grid-based | O mapa deve ser dividido em células quadradas de tamanho definido, servindo de base para posicionamento de sprites e lógica de interação. | Desenvolvimento |Must |[aqui](../../../../administracao/reunioes/20260326.md)|
+| RNF04 | Prototipagem iterativa | O protótipo deve ser entregue como demo em vídeo (produzido no After Effects e Premiere) acompanhado de uma página HTML de apresentação do projeto. | Desenvolvimento | Must |[aqui](../../../../administracao/reunioes/20260326.md)|
+| RNF05 | Documentação versionada | Todos os artefatos (Rich Pictures, storyboards, gravações, vídeo demo, página HTML) devem ser versionados e publicados no GitHub Pages com histórico por contribuidor. | Ambiental | Must |[aqui](../../../../administracao/reunioes/20260326.md)|
+| RNF06 | Artefatos autorais | Os artefatos visuais devem ser claramente feitos por humanos; conteúdo gerado por IA será penalizado conforme critério da professora. | Ético | Must |[aqui](../../../../administracao/reunioes/20260326.md)|
+| RNF07 | Exportação de sprites | Os sprites e animações criados no Piskel devem ser exportados em formatos compatíveis com Godot (PNG por frame ou GIF). | Produto | Must |[aqui](../../../../administracao/reunioes/20260326.md)|
+| RNF08 | Validação com usuários reais | O vídeo demo deve ser apresentado a ao menos dois usuários externos com experiência no gênero para coleta de feedback antes da entrega. | Organizacional | Should |[aqui](../../../../administracao/reunioes/20260326.md)|
+|RNF09 | Garantir a integridade dos dados no GitPages.| Todo o histórico de versões e documentação deve ser mantido de forma íntegra no repositório do grupo. | Ambiental | Must| [aqui](../administracao/reunioes/20260323.md)|
+|RNF10| Tamanho dos blocos | Cada bloco do cenário deve ter um tamanho T, em pixels. | Espaço | Must | [aqui](../../../../administracao/reunioes/20260327.md)|
+|RNF11| Tamanho do jogador| O jogador deve ter tamanho equivalente a 2T pixels. | Espaço | Must| [aqui](../../../../administracao/reunioes/20260327.md)|
+|RNF12| Tamanho das ferramentas | Ferramentas devem ter tamanho aproximado de 1,5T pixels. | Espaço | Must| [aqui](../../../../administracao/reunioes/20260327.md)|
+|RNF13| tamanho do mundo | O mundo deve ser pelo menos 1000x maior que o jogador| Espaço | Must | [aqui](../../../../administracao/reunioes/20260327.md)|
 
 
 ---
 
 > **Legenda:** Must = obrigatório | Should = importante | Could = desejável | Wont = fora do escopo atual
+
+## Bibliografia
+
+  > <a id="ref-sommerville"></a>SOMMERVILLE, Ian. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011. Acesso em: 6 abr. 2026.
 
 ## historico de versão 
 
@@ -79,3 +84,4 @@ Este documento apresenta a consolidação dos requisitos levantados durante os 5
 | 1.2   | 03/04/2026 | Revisão geral, acrescimo de requisitos e ajustes | [Carlos Henrique](https://github.com/Depaiiva) e [João Pedro](https://github.com/Jadequilin) |  |
 | 1.3 | 04/04/2025 | Adição de rastreabilidade e mudança do local do arquico | [Heyttor augusto](https://github.com/H3ytt0r62) | [Yasmin Abdon](https://github.com/yaabdon) |
 | 1.4 | 04/04/2025 | Mudança de local de arquivo (com correções da rastreabilidade para não gerar conflito) | [Yasmin Abdon](https://github.com/yaabdon) | |
+| 1.5 | 06/04/2025 | Adição de referência bibliográfica e categorização de requisitos não funcionais (tipo) | [Yasmin Abdon](https://github.com/yaabdon) | |
