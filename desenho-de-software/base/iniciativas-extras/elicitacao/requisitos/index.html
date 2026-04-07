@@ -1637,6 +1637,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bibliografia
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#historico-de-versao" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1784,6 +1795,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bibliografia
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#historico-de-versao" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1816,7 +1838,15 @@ EM CONSTRUÇÃO
 
 -->
 <h1 id="especificacao-de-requisitos-e-priorizacao">Especificação de Requisitos e Priorização<a class="headerlink" href="#especificacao-de-requisitos-e-priorizacao" title="Permanent link">&para;</a></h1>
-<p>Este documento apresenta a consolidação dos requisitos levantados durante os 5 dias de Design Sprint. A estrutura utiliza o modelo FURPS+ para categorização técnica e a técnica MoSCoW para definição de prioridade de implementação. </p>
+<p>Este documento apresenta a consolidação dos requisitos levantados durante os 5 dias de Design Sprint. A fundamentação para esta etapa baseia-se na distinção clássica proposta por (<a href="#ref-sommerville">Sommerville (2011)</a>), que divide as necessidades do sistema em duas frentes:</p>
+<ul>
+<li>
+<p>Requisitos Funcionais: que descrevem o que o sistema deve fazer e as funções específicas, entradas e saídas que o software deve processar (Sommerville, seção 4.1.1).</p>
+</li>
+<li>
+<p>Requisitos Não Funcionais: que, embora não descrevam serviços específicos, impõem restrições críticas às propriedades emergentes do sistema, como desempenho, confiabilidade e proteção, sendo muitas vezes mais vitais para a utilidade do software do que funções isoladas (Sommerville, seção 4.1.2).</p>
+</li>
+</ul>
 <h2 id="requisitos-funcionais">Requisitos Funcionais<a class="headerlink" href="#requisitos-funcionais" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
@@ -2049,6 +2079,7 @@ EM CONSTRUÇÃO
 <th style="text-align: left;">ID</th>
 <th style="text-align: left;">Nome</th>
 <th style="text-align: left;">Descrição</th>
+<th style="text-align: left;">Tipo</th>
 <th style="text-align: left;">Prioridade</th>
 <th style="text-align: left;">Rastreabilidade</th>
 </tr>
@@ -2058,6 +2089,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF01</td>
 <td style="text-align: left;">Plataforma de implementação</td>
 <td style="text-align: left;">O sistema deve ser desenvolvido na engine Godot, escolhida pela simplicidade de uso e suporte nativo a jogos 2D.</td>
+<td style="text-align: left;">Desenvolvimento</td>
 <td style="text-align: left;">Must</td>
 <td style="text-align: left;"><a href="../../../../../administracao/reunioes/20260326/">aqui</a></td>
 </tr>
@@ -2065,6 +2097,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF02</td>
 <td style="text-align: left;">Estética visual pixel art</td>
 <td style="text-align: left;">Os sprites devem ser criados manualmente no Piskel, em estilo Pixel Art de baixa resolução, sem uso de geração por IA.</td>
+<td style="text-align: left;">Ético</td>
 <td style="text-align: left;">Must</td>
 <td style="text-align: left;"><a href="../../../../../administracao/reunioes/20260326/">aqui</a></td>
 </tr>
@@ -2072,6 +2105,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF03</td>
 <td style="text-align: left;">Grid-based</td>
 <td style="text-align: left;">O mapa deve ser dividido em células quadradas de tamanho definido, servindo de base para posicionamento de sprites e lógica de interação.</td>
+<td style="text-align: left;">Desenvolvimento</td>
 <td style="text-align: left;">Must</td>
 <td style="text-align: left;"><a href="../../../../../administracao/reunioes/20260326/">aqui</a></td>
 </tr>
@@ -2079,6 +2113,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF04</td>
 <td style="text-align: left;">Prototipagem iterativa</td>
 <td style="text-align: left;">O protótipo deve ser entregue como demo em vídeo (produzido no After Effects e Premiere) acompanhado de uma página HTML de apresentação do projeto.</td>
+<td style="text-align: left;">Desenvolvimento</td>
 <td style="text-align: left;">Must</td>
 <td style="text-align: left;"><a href="../../../../../administracao/reunioes/20260326/">aqui</a></td>
 </tr>
@@ -2086,6 +2121,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF05</td>
 <td style="text-align: left;">Documentação versionada</td>
 <td style="text-align: left;">Todos os artefatos (Rich Pictures, storyboards, gravações, vídeo demo, página HTML) devem ser versionados e publicados no GitHub Pages com histórico por contribuidor.</td>
+<td style="text-align: left;">Ambiental</td>
 <td style="text-align: left;">Must</td>
 <td style="text-align: left;"><a href="../../../../../administracao/reunioes/20260326/">aqui</a></td>
 </tr>
@@ -2093,6 +2129,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF06</td>
 <td style="text-align: left;">Artefatos autorais</td>
 <td style="text-align: left;">Os artefatos visuais devem ser claramente feitos por humanos; conteúdo gerado por IA será penalizado conforme critério da professora.</td>
+<td style="text-align: left;">Ético</td>
 <td style="text-align: left;">Must</td>
 <td style="text-align: left;"><a href="../../../../../administracao/reunioes/20260326/">aqui</a></td>
 </tr>
@@ -2100,6 +2137,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF07</td>
 <td style="text-align: left;">Exportação de sprites</td>
 <td style="text-align: left;">Os sprites e animações criados no Piskel devem ser exportados em formatos compatíveis com Godot (PNG por frame ou GIF).</td>
+<td style="text-align: left;">Produto</td>
 <td style="text-align: left;">Must</td>
 <td style="text-align: left;"><a href="../../../../../administracao/reunioes/20260326/">aqui</a></td>
 </tr>
@@ -2107,6 +2145,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF08</td>
 <td style="text-align: left;">Validação com usuários reais</td>
 <td style="text-align: left;">O vídeo demo deve ser apresentado a ao menos dois usuários externos com experiência no gênero para coleta de feedback antes da entrega.</td>
+<td style="text-align: left;">Organizacional</td>
 <td style="text-align: left;">Should</td>
 <td style="text-align: left;"><a href="../../../../../administracao/reunioes/20260326/">aqui</a></td>
 </tr>
@@ -2114,6 +2153,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF09</td>
 <td style="text-align: left;">Garantir a integridade dos dados no GitPages.</td>
 <td style="text-align: left;">Todo o histórico de versões e documentação deve ser mantido de forma íntegra no repositório do grupo.</td>
+<td style="text-align: left;">Ambiental</td>
 <td style="text-align: left;">Must</td>
 <td style="text-align: left;"><a href="../administracao/reunioes/20260323.md">aqui</a></td>
 </tr>
@@ -2121,6 +2161,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF10</td>
 <td style="text-align: left;">Tamanho dos blocos</td>
 <td style="text-align: left;">Cada bloco do cenário deve ter um tamanho T, em pixels.</td>
+<td style="text-align: left;">Espaço</td>
 <td style="text-align: left;">Must</td>
 <td style="text-align: left;"><a href="../../../../../administracao/reunioes/20260327/">aqui</a></td>
 </tr>
@@ -2128,6 +2169,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF11</td>
 <td style="text-align: left;">Tamanho do jogador</td>
 <td style="text-align: left;">O jogador deve ter tamanho equivalente a 2T pixels.</td>
+<td style="text-align: left;">Espaço</td>
 <td style="text-align: left;">Must</td>
 <td style="text-align: left;"><a href="../../../../../administracao/reunioes/20260327/">aqui</a></td>
 </tr>
@@ -2135,6 +2177,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF12</td>
 <td style="text-align: left;">Tamanho das ferramentas</td>
 <td style="text-align: left;">Ferramentas devem ter tamanho aproximado de 1,5T pixels.</td>
+<td style="text-align: left;">Espaço</td>
 <td style="text-align: left;">Must</td>
 <td style="text-align: left;"><a href="../../../../../administracao/reunioes/20260327/">aqui</a></td>
 </tr>
@@ -2142,6 +2185,7 @@ EM CONSTRUÇÃO
 <td style="text-align: left;">RNF13</td>
 <td style="text-align: left;">tamanho do mundo</td>
 <td style="text-align: left;">O mundo deve ser pelo menos 1000x maior que o jogador</td>
+<td style="text-align: left;">Espaço</td>
 <td style="text-align: left;">Must</td>
 <td style="text-align: left;"><a href="../../../../../administracao/reunioes/20260327/">aqui</a></td>
 </tr>
@@ -2150,6 +2194,10 @@ EM CONSTRUÇÃO
 <hr />
 <blockquote>
 <p><strong>Legenda:</strong> Must = obrigatório | Should = importante | Could = desejável | Wont = fora do escopo atual</p>
+</blockquote>
+<h2 id="bibliografia">Bibliografia<a class="headerlink" href="#bibliografia" title="Permanent link">&para;</a></h2>
+<blockquote>
+<p><a id="ref-sommerville"></a>SOMMERVILLE, Ian. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011. Acesso em: 6 abr. 2026.</p>
 </blockquote>
 <h2 id="historico-de-versao">historico de versão<a class="headerlink" href="#historico-de-versao" title="Permanent link">&para;</a></h2>
 <table>
@@ -2195,6 +2243,13 @@ EM CONSTRUÇÃO
 <td style="text-align: center;">1.4</td>
 <td style="text-align: center;">04/04/2025</td>
 <td style="text-align: center;">Mudança de local de arquivo (com correções da rastreabilidade para não gerar conflito)</td>
+<td style="text-align: center;"><a href="https://github.com/yaabdon">Yasmin Abdon</a></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;">1.5</td>
+<td style="text-align: center;">06/04/2025</td>
+<td style="text-align: center;">Adição de referência bibliográfica e categorização de requisitos não funcionais (tipo)</td>
 <td style="text-align: center;"><a href="https://github.com/yaabdon">Yasmin Abdon</a></td>
 <td style="text-align: center;"></td>
 </tr>
