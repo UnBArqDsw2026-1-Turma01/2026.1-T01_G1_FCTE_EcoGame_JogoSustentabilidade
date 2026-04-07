@@ -1195,10 +1195,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#introducao" class="md-nav__link">
+  <a href="#1-introducao" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Introdução
+        1. Introdução
       
     </span>
   </a>
@@ -1210,6 +1210,17 @@
     <span class="md-ellipsis">
       
         2. Definições
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bibliografia
       
     </span>
   </a>
@@ -1760,10 +1771,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#introducao" class="md-nav__link">
+  <a href="#1-introducao" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Introdução
+        1. Introdução
       
     </span>
   </a>
@@ -1775,6 +1786,17 @@
     <span class="md-ellipsis">
       
         2. Definições
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bibliografia
       
     </span>
   </a>
@@ -1815,11 +1837,10 @@ EM CONSTRUÇÃO
 -->
 
 <h1 id="glossario">Glossário<a class="headerlink" href="#glossario" title="Permanent link">&para;</a></h1>
-<h2 id="introducao">Introdução<a class="headerlink" href="#introducao" title="Permanent link">&para;</a></h2>
-<ol>
-<li>Introdução
-Este documento tem como objetivo definir os termos técnicos, conceitos de jogo e siglas utilizados na documentação do projeto. A padronização destes termos visa alinhar o entendimento entre os membros da equipe e os stakeholders, garantindo que a comunicação seja clara e sem ambiguidades.</li>
-</ol>
+<p>"Pequeno vocabulário, ou relação de palavras, em que se explica o significado das
+mesmas, para ajudar o leitor na compreensão do texto que lê" (<a href="#ref-unica">BIDERMAN, 1984</a>)</p>
+<h2 id="1-introducao">1. Introdução<a class="headerlink" href="#1-introducao" title="Permanent link">&para;</a></h2>
+<p>Este documento tem como objetivo definir os termos técnicos, conceitos de jogo e siglas utilizados na documentação do projeto. A padronização destes termos visa alinhar o entendimento entre os membros da equipe e os stakeholders, garantindo que a comunicação seja clara e sem ambiguidades.</p>
 <h2 id="2-definicoes">2. Definições<a class="headerlink" href="#2-definicoes" title="Permanent link">&para;</a></h2>
 <!-- 
 COLOQUEM MAIS -> podem editar e remover, esses são os exemplos que peguei a partir do requisitios levantados
@@ -1840,12 +1861,12 @@ do dia 01/dia 02
 <td style="text-align: left;">Softwares da Adobe utilizados, respectivamente, para criação de animações e edição de vídeo na produção do demo do projeto.</td>
 </tr>
 <tr>
-<td style="text-align: left;"><strong>Avatar 2D</strong></td>
-<td style="text-align: left;">Personagem controlado pelo jogador, representado graficamente em duas dimensões. No projeto, possui sprites distintos para os estados de movimento, coleta e transporte de itens.</td>
-</tr>
-<tr>
 <td style="text-align: left;"><strong>Blueprint</strong></td>
 <td style="text-align: left;">Sistema visual de programação por nós (node-based) do Godot, utilizado para implementar a lógica do jogo sem escrita direta de código. Equivalente funcional ao Blueprint do Unreal Engine, adaptado ao contexto da engine escolhida.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Cozy Game</strong></td>
+<td style="text-align: left;">Estilo de jogo focado em atividades relaxantes, sem violencia ou pressão, geralmente com uma trila sonora calma e visuais suaves</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Crafting</strong></td>
@@ -1869,7 +1890,7 @@ do dia 01/dia 02
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Godot</strong></td>
-<td style="text-align: left;">Engine de jogo multiplataforma e de código aberto utilizada como base tecnológica para o desenvolvimento deste projeto, escolhida pela simplicidade de uso e suporte nativo a jogos 2D.</td>
+<td style="text-align: left;">Engine de jogo multiplataforma e de código aberto escolhida como base tecnológica para o desenvolvimento deste projeto por sua simplicidade de uso e suporte nativo a jogos 2D.</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Grid</strong></td>
@@ -1877,10 +1898,10 @@ do dia 01/dia 02
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Inventário</strong></td>
-<td style="text-align: left;">Sistema de gerenciamento de itens que armazena os recursos coletados pelo avatar durante a exploração do mapa.</td>
+<td style="text-align: left;">Sistema de gerenciamento de itens que armazena os recursos coletados pelo protagonista durante a exploração do mapa.</td>
 </tr>
 <tr>
-<td style="text-align: left;"><strong>Maquininha de reciclagem</strong></td>
+<td style="text-align: left;"><strong>Máquina (Maquininha de reciclagem)</strong></td>
 <td style="text-align: left;">Objeto único do mapa responsável por receber materiais do inventário e transformá-los em novos itens segundo as receitas de crafting disponíveis.</td>
 </tr>
 <tr>
@@ -1900,23 +1921,27 @@ do dia 01/dia 02
 <td style="text-align: left;">Ferramenta online gratuita de criação de pixel art e animações frame a frame, adotada no projeto para produção dos sprites exportados em PNG ou GIF para uso no Godot.</td>
 </tr>
 <tr>
+<td style="text-align: left;"><strong>Protagonista</strong></td>
+<td style="text-align: left;">Personagem controlado pelo jogador, representado graficamente em duas dimensões. No projeto, possui sprites distintos para os estados de movimento, coleta e transporte de itens.</td>
+</tr>
+<tr>
 <td style="text-align: left;"><strong>Rich Picture</strong></td>
 <td style="text-align: left;">Artefato visual informal utilizado no design sprint para representar a visão de cada membro sobre o sistema, suas relações e os problemas a resolver, sem seguir um formalismo rígido.</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Sprite</strong></td>
-<td style="text-align: left;">Imagem bidimensional que representa visualmente um personagem ou objeto no jogo. No projeto, cada estado do avatar (andando, coletando, segurando item) possui um sprite dedicado, criado no Piskel e exportado para o Godot.</td>
+<td style="text-align: left;">Imagem bidimensional que representa visualmente um personagem ou objeto no jogo. No projeto, cada estado do protagonista (andando, coletando, segurando item) possui um sprite dedicado, criado no Piskel e exportado para o Godot.</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>WASD</strong></td>
-<td style="text-align: left;">Esquema de controle que utiliza as teclas W (frente), A (esquerda), S (trás) e D (direita) para a movimentação do avatar.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><strong>Cozy Game</strong></td>
-<td style="text-align: left;">Estilo de jogo focado em atividades relaxantes, sem violencia ou pressão, geralmente com uma trila sonora calma e visuais suaves</td>
+<td style="text-align: left;">Esquema de controle que utiliza as teclas W (frente), A (esquerda), S (trás) e D (direita) para a movimentação do protagonista.</td>
 </tr>
 </tbody>
 </table>
+<h2 id="bibliografia">Bibliografia<a class="headerlink" href="#bibliografia" title="Permanent link">&para;</a></h2>
+<blockquote>
+<p><a id="ref-unica"></a>BIDERMAN, M. T. C. Glossário. Alfa, São Paulo, v. 28, supl., p. 135-144, 1984. Acesso em: 6 abr. 2026.</p>
+</blockquote>
 <hr />
 <h2 id="historico-de-versao">Histórico de versão<a class="headerlink" href="#historico-de-versao" title="Permanent link">&para;</a></h2>
 <table>
@@ -1942,6 +1967,13 @@ do dia 01/dia 02
 <td style="text-align: center;">06/04/2026</td>
 <td style="text-align: center;">Adição do termo "cozy"</td>
 <td style="text-align: center;"><a href="https://github.com/H3ytt0r62">Heyttor Augusto</a></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;">1.6</td>
+<td style="text-align: center;">06/04/2026</td>
+<td style="text-align: center;">Adição de referência bibliográfica e organização do glossário em ordem alfabética</td>
+<td style="text-align: center;"><a href="https://github.com/yaabon">Yasmin Abdon</a></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
